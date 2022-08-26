@@ -1,0 +1,105 @@
+[
+    {
+        "name": "topMenu",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1660052396683,
+                "label": "Home",
+                "title": "",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1660054196792,
+                "label": "il Club",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 4,
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1660056672729,
+                        "label": "Comitato",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 4,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1660056625903,
+                        "label": "Statuti",
+                        "title": "Statuti",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 5,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1660221415766,
+                "label": "Iscrizione al club",
+                "title": "Iscrizione al club",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 7,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1661266766483,
+                "label": "Calendario",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 4,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1660028006111,
+                "label": "Sponsors",
+                "title": "I nostri sponsors",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 2,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1660055396680,
+                "label": "Contatti",
+                "title": "Contatti",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 6,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ]
+    }
+]

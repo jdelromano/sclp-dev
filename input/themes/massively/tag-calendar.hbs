@@ -1,0 +1,60 @@
+{{!
+	Theme created by TidyCustoms based on Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 & MIT license (html5up.net/license)
+}}
+{{> head}}
+{{> top}}
+
+<main id="main">
+{{#tag}}
+      <header class="page-header">
+         <h1>
+            {{name}}
+            {{#if @config.custom.postsCount}}
+               <sup>({{postsNumber}})</sup>
+            {{/if}}
+         </h1>
+         {{#if description}}
+            <p>
+               {{description}}
+            </p>
+         {{/if}}
+      </header>
+   {{/tag}}
+
+   <section class="calendarList">
+      
+      {{> share-buttons-calendars}}
+
+      {{orderby this.posts 'createdAt' 'ASC'}}
+
+      {{#each posts}}
+         <div class="desc">
+                  <a href="{{url}}">
+                     <b>{{date createdAt 'D MMMM YYYY'}}</b><br>
+                     {{title}}
+                     {{#if postViewConfig.introText}}
+                         - {{postViewConfig.introText}}
+                     {{/if}}
+                     {{#if postViewConfig.locationName}}
+                         - {{postViewConfig.locationName}}
+                     {{/if}}
+                  </a>
+                        
+         </div>
+      {{/each}}
+      
+      {{orderby this.posts 'createdAt' 'DESC'}}
+      
+   </section>
+
+   {{#if @pagination}}
+      <footer>
+         {{> pagination}}
+      </footer>
+   {{/if}}
+
+</main>
+
+{{> footer}}

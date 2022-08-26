@@ -1,0 +1,64 @@
+{
+    "partials": {
+        
+        "menu": {
+            "label": "Menu"
+        },
+        
+        "pagination": {
+            "prev": "Precedente",
+            "next": "Prossimo"
+        },
+        
+        "top": {
+            "continue": "Continua"
+        },
+
+        "share-buttons": {
+            "shareButtons": "Condividi"
+        }
+    },
+    
+    "post": {
+        "publishedBy": "By",
+        "relatedPosts": "Dovresti anche leggere:",
+        "readMore": "... di più ...",
+        "lastUpdatedDate": "Aggiornato il ",
+        "taggedIn": "Taggato in:",
+        "comments": "Commenti"
+    },
+
+    "tags": {
+        "tagsPageTitle": "Tags",
+        "description": "Tutti i tags",
+        "post": {
+            "1": "Post",
+            "default": "Posts"
+        }
+    },
+
+    "author": {
+        "visitWebsite": "Visita il sito"
+    },
+    
+    "error": {
+        "404": "404 Error",
+        "message-1": "Pagina non trovata",
+        "message-2": "Sembra che questa pagina sia stata spostata o eliminata. Prova a tornare alla nostra home.",
+        "button": "Alla home"
+
+    },
+    
+    "socials": {
+        "twitter": "Twitter",
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "linkedIn": "LinkedIn",
+        "vimeo": "Vimeo",
+        "youtube": "YouTube",
+        "pinterest": "Pinterest",
+        "mix": "Mix",
+        "buffer": "Buffer",
+        "whatsapp": "WhatsApp"
+    }
+}
