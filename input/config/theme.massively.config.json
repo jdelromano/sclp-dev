@@ -44,7 +44,7 @@
         "socialVimeo": "",
         "socialPinterest": "",
         "socialYoutube": "",
-        "socialWhatsapp": "/whatsapp",
+        "socialWhatsapp": 16,
         "copyrightText": "<p class=\"align-center\"><span style=\"color: #000000;\">© Sci Club Lodrino Prosito  |  José Del Romano</span></p>",
         "galleryItemGap": "0.28333rem",
         "galleryLightboxStyle": "pswp--dark",

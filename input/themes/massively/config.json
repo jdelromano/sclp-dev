@@ -1017,8 +1017,10 @@
             "label": "Whatsapp",
             "group": "Follow buttons",
             "placeholder": "Please enter your Whatsapp URL",
-            "value": "",
-            "type": "text",
+            "value": "",     
+            "allowedPostStatus": ["any"],
+            "type": "posts-dropdown",
+            "multiple": false,
             "dependencies": [{
                 "field": "socialButtons",
                 "value": "true"

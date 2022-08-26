@@ -24,6 +24,14 @@
    {{/tag}}
 
    <section class="calendarList">
+
+
+      {{#each @website.contentStructure.tags}}
+      
+         {{#checkIf this.additionalData.template '==' 'calendar'}}
+            <p>aaaaaaaaaaaaa</p>
+         {{/checkIf}}
+      {{/each}}
       
       {{> share-buttons-calendars}}
 
