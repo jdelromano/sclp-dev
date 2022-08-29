@@ -5,13 +5,13 @@
 }}
 {{> head}}
 {{> top}}
-{{#checkIf @config.custom.frontSource '==' "post" }}
-   {{> frontpage-post}}
-{{else}}
 
-   
 <div id="main-row">
 	<div id="content-main">
+
+   {{#checkIf @config.custom.frontSource '==' "post" }}
+      {{> frontpage-post}}
+   {{else}}
       <main id="main">
          {{#if @renderer.isFirstPage}}
             {{#featuredPosts}}
@@ -127,6 +127,8 @@
             </footer>
          {{/if}}
       </main>
+   {{/checkIf}}
+
    </div>
 	<div id="sidebar">
       {{#checkIf @config.custom.frontCalendar '==' true}}
@@ -135,5 +137,4 @@
       </div>
    </div>
 
-{{/checkIf}}
 {{> footer}}
