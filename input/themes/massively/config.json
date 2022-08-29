@@ -109,14 +109,6 @@
             ]
         },  
         {
-            "name": "frontCalendar",
-            "label": "Show calendar",
-            "group": "Layout",
-            "note": "It will show a side calendar with all posts titles from tags of type calendar",
-            "value": true,
-            "type": "checkbox"
-        },
-        {
             "name": "frontPost",
             "label": "Posts",
             "group": "Layout",
@@ -224,6 +216,42 @@
                 }
             ]
         },
+        
+        {
+            "name": "showSidebar",
+            "label": "Show sidebar on the frontpage",
+            "group": "Sidebar",
+            "note": "Show a sidebar",
+            "value": true,
+            "type": "checkbox"
+        },
+        {
+            "name": "frontCalendarId",
+            "label": "Show calendar",
+            "group": "Sidebar",
+            "note": "It will show a side calendar with all posts titles from the tag chosen below (first create the tag)",
+            "value": "",
+            "type": "tags-dropdown",
+            "dependencies": [
+            {
+                "field": "showSidebar",
+                "value": "true"
+            }]
+        },
+        {
+            "name": "frontInEvidenceId",
+            "label": "Show in evidence post",
+            "group": "Sidebar",
+            "note": "Add the post that contains 'In evidence' contents",
+            "value": "",
+            "type": "posts-dropdown",
+            "dependencies": [
+            {
+                "field": "showSidebar",
+                "value": "true"
+            }]
+        },
+
 
         {
             "name": "feedReadMore",

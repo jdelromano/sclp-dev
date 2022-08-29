@@ -1,3 +1,37 @@
 <div class="sidebar">
-   <p>bbbbbbbbb</p>
+
+   {{#checkIf @config.custom.frontCalendarId '!=' "" }}
+      {{#getTag @config.custom.frontCalendarId}}
+         {{orderby this.posts 'createdAt' 'ASC'}}
+         <div class="sidebarItem">
+            <h3>{{name}}</h3>
+         </div>
+         {{#each posts}}
+            <div class="sidebarItem">
+               <a href="{{url}}">
+                  <h4>{{date createdAt 'D MMMM YYYY'}}</h4><br>
+                  {{title}}
+                  {{#if postViewConfig.introText}}
+                        - {{postViewConfig.introText}}
+                  {{/if}}
+                  {{#if postViewConfig.locationName}}
+                        - {{postViewConfig.locationName}}
+                  {{/if}}
+               </a>      
+            </div>
+         {{/each}}
+         {{orderby this.posts 'createdAt' 'DESC'}}
+      {{/getTag}}
+   {{/checkIf}}
+
+   {{#checkIf @config.custom.frontInEvidenceId '!=' "" }}
+      {{#getPost @config.custom.frontInEvidenceId}}
+         <div class="sidebarItem">
+            <h3>{{title}}</h3>
+            {{{text}}}  
+         </div>
+      {{/getPost}}
+   {{/checkIf}}
+
+
 </div>

@@ -6,8 +6,11 @@
 {{> head}}
 {{> top}}
 
-<div id="main-row">
-	<div id="content-main">
+<div class="main-row">
+   
+   {{#checkIf @config.custom.showSidebar '==' true}}
+	   <div id="contant-main" class="content-main">
+   {{/checkIf}}
 
    {{#checkIf @config.custom.frontSource '==' "post" }}
       {{> frontpage-post}}
@@ -129,12 +132,12 @@
       </main>
    {{/checkIf}}
 
-   </div>
-	<div id="sidebar">
-      {{#checkIf @config.custom.frontCalendar '==' true}}
-         {{> sidebar}}
-      {{/checkIf}}
+   {{#checkIf @config.custom.showSidebar '==' true}}
       </div>
-   </div>
+      <div class="sidebar" id="sidebar">
+         {{> sidebar}}
+      </div>
+   {{/checkIf}}
+</div>
 
 {{> footer}}
