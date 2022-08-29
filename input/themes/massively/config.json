@@ -239,12 +239,40 @@
             }]
         },
         {
-            "name": "frontInEvidenceId",
-            "label": "Show in evidence post",
+            "name": "showCalendarTitle",
+            "label": "Show calendar title",
             "group": "Sidebar",
-            "note": "Add the post that contains 'In evidence' contents",
+            "note": "",
+            "value": true,
+            "type": "checkbox",
+            "dependencies": [
+                {
+                    "field": "showSidebar",
+                    "value": "true"
+                }]
+        },
+        {
+            "name": "frontInEvidence",
+            "label": "In evidence post",
+            "group": "Sidebar",
+            "note": "",
             "value": "",
-            "type": "posts-dropdown",
+            "type": "wysiwyg",
+            "dependencies": [
+            {
+                "field": "showSidebar",
+                "value": "true"
+            }]
+        },
+        {
+            "name": "goldSponsors",
+            "label": "Gold sponsors images",
+            "group": "Sidebar",
+            "note": "Put the images in the media/files, here make a list of '&ltimageFileName&gt;,&lt;sponsor url&gt;,&lt;&lt;img title&gt;', each image on a new line",
+            "value": "",
+            "type": "textarea",
+            "rows": 5,
+            "cols": 80,
             "dependencies": [
             {
                 "field": "showSidebar",

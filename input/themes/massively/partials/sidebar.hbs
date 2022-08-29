@@ -4,12 +4,13 @@
       {{#getTag @config.custom.frontCalendarId}}
          {{orderby this.posts 'createdAt' 'ASC'}}
          <div class="sidebarItem">
+         {{#checkIf @config.custom.showCalendarTitle '==' true}}
+         
             <h3>{{name}}</h3>
-         </div>
+         {{/checkIf}}
          {{#each posts}}
-            <div class="sidebarItem">
                <a href="{{url}}">
-                  <h4>{{date createdAt 'D MMMM YYYY'}}</h4><br>
+                  <h4>{{date createdAt 'D MMMM YYYY'}}</h4>
                   {{title}}
                   {{#if postViewConfig.introText}}
                         - {{postViewConfig.introText}}
@@ -17,21 +18,23 @@
                   {{#if postViewConfig.locationName}}
                         - {{postViewConfig.locationName}}
                   {{/if}}
-               </a>      
-            </div>
+               </a>   
          {{/each}}
          {{orderby this.posts 'createdAt' 'DESC'}}
+         </div>
       {{/getTag}}
    {{/checkIf}}
 
-   {{#checkIf @config.custom.frontInEvidenceId '!=' "" }}
-      {{#getPost @config.custom.frontInEvidenceId}}
-         <div class="sidebarItem">
-            <h3>{{title}}</h3>
-            {{{text}}}  
-         </div>
-      {{/getPost}}
+   {{#checkIf @config.custom.frontInEvidence '!=' "" }}
+      <div class="sidebarItem">
+         {{{@config.custom.frontInEvidence}}}
+      </div>
    {{/checkIf}}
-
+   
+   {{#checkIf @config.custom.goldSponsors '!=' "" }}
+      <div class="sidebarItem">
+      {{{getGoldSponsorImgs @website.mediaFilesUrl @config.custom.goldSponsors}}}
+      </div>
+   {{/checkIf}}
 
 </div>

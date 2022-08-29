@@ -4520,22 +4520,34 @@ hr::before,
   overflow: auto;
   /*border-left: solid 1px #909498;*/
   border: none;
+  font-size: 0.7rem;
+  line-height: 1;
 }
 
-.sidebar .sidebarItem {
-  padding: 0.3rem;
-  font-size: 0.7rem;
-}
-.sidebar .sidebarItem h4{
-  line-height: 0;
+.sidebar h3 {
+  margin-top: 0.3em;
+  margin-bottom: 0;
   letter-spacing: 0.05em;
-  margin: 0 0 0 0;
-  border-bottom-color: #e2e2e2;
 }
-.sidebar .sidebarItem a{
+.sidebar h4 {
+  margin-bottom: 0;
+  letter-spacing: 0.05em;
+}
+.sidebar a {
   color: inherit;
   border: none;
 }
+.sidebar .img{
+  width:100%;
+  max-width: 12rem;
+  margin: 0;
+  text-align: center;
+}
+.sidebar .sidebarItem {
+  margin-left: 0.3rem;
+  margin-top: 1rem;
+}
+
 
 @media all and (max-width: 50em) {
   .content-main {
@@ -4545,6 +4557,10 @@ hr::before,
   .sidebar {
     width: 100%;
     border: none;
+  }
+  .sidebar .img{
+    width:100%;
+    margin: 0;
   }
 }
 
@@ -4565,7 +4581,7 @@ hr::before,
   text-align: center;
 }
 #main > .post {
-  padding: 8rem 8rem 6rem 8rem;
+  padding: 4rem 2rem 2rem 2rem;
 }
 #main > .post header.major > .date {
   margin-top: -2rem;
@@ -4577,11 +4593,6 @@ hr::before,
 }
 #main > .post.featured {
   text-align: center;
-}
-@media screen and (max-width: 1280px) {
-  #main > .post {
-    padding: 6rem 4rem 4rem 4rem;
-  }
 }
 @media screen and (max-width: 736px) {
   #main > .post {
