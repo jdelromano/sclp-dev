@@ -27,7 +27,6 @@
 
 
       {{#each @website.contentStructure.tags}}
-      
          {{#checkIf this.additionalData.template '==' 'calendar'}}
             <p>aaaaaaaaaaaaa</p>
          {{/checkIf}}
@@ -39,17 +38,16 @@
 
       {{#each posts}}
          <div class="desc">
-                  <a href="{{url}}">
-                     <b>{{date createdAt 'D MMMM YYYY'}}</b><br>
-                     {{title}}
-                     {{#if postViewConfig.introText}}
-                         - {{postViewConfig.introText}}
-                     {{/if}}
-                     {{#if postViewConfig.locationName}}
-                         - {{postViewConfig.locationName}}
-                     {{/if}}
-                  </a>
-                        
+            <a href="{{url}}">
+               <b>{{date createdAt 'D MMMM YYYY'}}</b><br>
+               {{title}}
+               {{#if postViewConfig.introText}}
+                     - {{postViewConfig.introText}}
+               {{/if}}
+               {{#if postViewConfig.locationName}}
+                     - {{postViewConfig.locationName}}
+               {{/if}}
+            </a>      
          </div>
       {{/each}}
       

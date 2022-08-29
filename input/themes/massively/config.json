@@ -109,6 +109,14 @@
             ]
         },  
         {
+            "name": "frontCalendar",
+            "label": "Show calendar",
+            "group": "Layout",
+            "note": "It will show a side calendar with all posts titles from tags of type calendar",
+            "value": true,
+            "type": "checkbox"
+        },
+        {
             "name": "frontPost",
             "label": "Posts",
             "group": "Layout",

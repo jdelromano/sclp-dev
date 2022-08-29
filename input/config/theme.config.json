@@ -8,8 +8,9 @@
     },
     "customConfig": {
         "uploadHero": "media/website/Sedrun-2022-2.jpg",
-        "frontSource": "post",
-        "frontPost": 11,
+        "frontSource": "default",
+        "frontCalendar": true,
+        "frontPost": "",
         "frontGallery": false,
         "introText": "<h1>Sci Club Lodrino Prosito</h1>\n<p>...L'inverno sta arrivando...</p>",
         "includeFeaturedInPosts": false,

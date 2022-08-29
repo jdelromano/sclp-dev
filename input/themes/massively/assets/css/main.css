@@ -3219,9 +3219,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   background-color: #ffffff;
   position: relative;
   margin: 0 auto;
-  width: calc(100% - 4rem);
-  max-width: 72rem;
-  z-index: 2;
+  width: 100%;
 }
 #main > * {
   padding: 4rem 4rem 2rem 4rem;
@@ -3247,25 +3245,6 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 }
 #main > .post.featured {
   text-align: center;
-}
-@media screen and (max-width: 1280px) {
-  #main > .post {
-    padding: 6rem 4rem 4rem 4rem;
-  }
-}
-@media screen and (max-width: 736px) {
-  #main > .post {
-    padding: 4rem 2rem 2rem 2rem;
-  }
-  #main > .post header.major > .date {
-    margin-top: -1rem;
-    margin-bottom: 2rem;
-  }
-  #main > .post header.major > h1, #main > .post header.major h2 {
-    font-size: 2.5rem;
-    line-height: 1.2;
-    margin: 0 0 1.5rem 0;
-  }
 }
 #main > .posts {
   display: -moz-flex;
@@ -3318,6 +3297,26 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 #main > .posts > article:nth-child(-n+2) {
   border-top-width: 0;
 }
+
+@media screen and (max-width: 1280px) {
+  #main > .post {
+    padding: 6rem 4rem 4rem 4rem;
+  }
+}
+@media screen and (max-width: 736px) {
+  #main > .post {
+    padding: 4rem 2rem 2rem 2rem;
+  }
+  #main > .post header.major > .date {
+    margin-top: -1rem;
+    margin-bottom: 2rem;
+  }
+  #main > .post header.major > h1, #main > .post header.major h2 {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin: 0 0 1.5rem 0;
+  }
+}
 @media screen and (max-width: 980px) {
   #main > .posts > * {
     width: 50%;
@@ -3351,16 +3350,6 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
     max-width: 25rem;
     margin-left: auto;
     margin-right: auto;
-  }
-}
-@media screen and (max-width: 736px) {
-  #main > * {
-    padding: 2rem 2rem 0.1rem 2rem;
-  }
-}
-@media screen and (max-width: 480px) {
-  #main {
-    width: 100%;
   }
 }
 
@@ -4650,49 +4639,6 @@ hr::before,
 }
 
 
-.candidati {
-  display: block;
-  position: relative;
-  overflow: hidden;
-  max-width: 530px;
-  min-width: 530px;
-  margin: auto auto 1rem;
-}
-
-.candidati .caption {
-  height: 100%;
-  width: 100%;
-  margin: 2rem 2rem 2rem;
-}
-
-.candidati h2 {
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  overflow-wrap: normal;
-}
-.candidati p {
-  font-weight: 300;
-  font-size: 1.2rem;
-}
-
-.descCandidato{
-  display: flex;
-  text-align: left;
-} 
-.descCandidato .left {
-  float: left;
-  width: 10%;
-}
-.descCandidato .center {
-  float: left;
-  width: 50%;
-}
-.descCandidato .right {
-  float: left;
-  width: 40%;
-}
-
-
 .calendarList {
   margin: 0;
   padding: 0;
@@ -4726,4 +4672,47 @@ hr::before,
   width: 100%;
   height: 100%;
   border: none;
+}
+
+#main-row {
+	display: block;
+  position: relative;
+  margin: 0 auto;
+  /*margin-left: 4rem;*/
+  max-width: 72rem;
+  z-index: 2;
+	height: 100%;
+}
+
+#sidebar {
+	display: table-cell;
+	/*width: 15%;*/
+  min-width: 8em;
+	vertical-align: top;
+  background-color: #ffffff;
+  border-left: solid 1px #909498;
+  overflow: auto;
+}
+
+#content-main {
+	display: table-cell;
+	width: 100%;
+	vertical-align: top;
+}
+
+@media screen and (max-width: 736px) {
+  #navPanel {
+    padding: 2.5rem 1.75rem;
+  }
+}
+
+@media screen and (max-width: 736px) {
+  #main-row {
+    padding: 2rem 2rem 0.1rem 2rem;
+  }
+}
+@media screen and (max-width: 480px) {
+  #main-row {
+    width: 100%;
+  }
 }
