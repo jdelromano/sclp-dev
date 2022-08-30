@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "87a3486f92c1348dcb6970bb9a4381cb"
+        "md5": "7a58e95cc879f772d6cbf353a55bfbdd"
     },
     {
         "path": "amp",
@@ -22,17 +22,17 @@
     {
         "path": "/amp/autori/jose-del-romano/index.html",
         "type": "file",
-        "md5": "46e35cc40b64ca53361d937ed9f22e76"
+        "md5": "d044b5e86731331a9ad79f009f0d4d1c"
     },
     {
-        "path": "amp/calendario",
+        "path": "amp/campo-di-natale",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/calendario/index.html",
+        "path": "/amp/campo-di-natale/index.html",
         "type": "file",
-        "md5": "19d19bf8ee5c226625e5ee27aa833625"
+        "md5": "1151a6e3a053cd565ea10635fdeb0f92"
     },
     {
         "path": "amp/cg",
@@ -42,7 +42,7 @@
     {
         "path": "/amp/cg/index.html",
         "type": "file",
-        "md5": "f54f650d90eb2bdfbde182a2651f64ec"
+        "md5": "1edf7d7109ca57fd76045b32b9617f3a"
     },
     {
         "path": "amp/comitato",
@@ -52,7 +52,7 @@
     {
         "path": "/amp/comitato/index.html",
         "type": "file",
-        "md5": "1a5167cdc9f83abdd4107de2656b2940"
+        "md5": "ac7b8d632676e57f05fc18047c34028a"
     },
     {
         "path": "amp/contatti",
@@ -62,7 +62,7 @@
     {
         "path": "/amp/contatti/index.html",
         "type": "file",
-        "md5": "d1fdeb0f25075af17db4f114ee4e5d37"
+        "md5": "da7d4953615b6d7cdc794aa87ab1ad81"
     },
     {
         "path": "amp/corso-quadri",
@@ -72,7 +72,7 @@
     {
         "path": "/amp/corso-quadri/index.html",
         "type": "file",
-        "md5": "85674a9788bac952f826cbba6721689f"
+        "md5": "0d78da7131d7b476a888a37bc5f11a98"
     },
     {
         "path": "amp/ginnastica-presciatoria",
@@ -82,22 +82,12 @@
     {
         "path": "/amp/ginnastica-presciatoria/index.html",
         "type": "file",
-        "md5": "a41d7ed6e37ab7bc5e5a5c649299c6bc"
-    },
-    {
-        "path": "amp/in-evidenza",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/in-evidenza/index.html",
-        "type": "file",
-        "md5": "9ee1b4c906cd8e4a079a15b8cc54db98"
+        "md5": "c3488524edbd1423ea2dfbf98dba4b58"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "4d642c8b11aae9470d39ae876aa0314a"
+        "md5": "24420b2b29c79d237607afebe138b6e4"
     },
     {
         "path": "amp/iscrizione",
@@ -107,7 +97,7 @@
     {
         "path": "/amp/iscrizione/index.html",
         "type": "file",
-        "md5": "ee6a263d4f4d5fbd7b0b4ab6c7440788"
+        "md5": "bf2deee54e27af9fb17af0e959e37cf1"
     },
     {
         "path": "amp/mercatino-dellusato",
@@ -117,7 +107,7 @@
     {
         "path": "/amp/mercatino-dellusato/index.html",
         "type": "file",
-        "md5": "8ebb7a60a257266af6e2ea480495c3fa"
+        "md5": "95326ebdd14deeacee79d6d4394a1d2d"
     },
     {
         "path": "amp/sponsor",
@@ -127,7 +117,7 @@
     {
         "path": "/amp/sponsor/index.html",
         "type": "file",
-        "md5": "2299144402addf462107b01589e24783"
+        "md5": "aea04e89d0cee02d6157d7d2bc7ae5eb"
     },
     {
         "path": "amp/statuti",
@@ -137,7 +127,7 @@
     {
         "path": "/amp/statuti/index.html",
         "type": "file",
-        "md5": "ebc61d8b14fe89ecfe9af704ce77cda9"
+        "md5": "8d4a0582b6f0231ef6245358c42db4ce"
     },
     {
         "path": "amp/tags",
@@ -152,7 +142,7 @@
     {
         "path": "/amp/tags/calendario/index.html",
         "type": "file",
-        "md5": "6f2e5b62718ca42f860af453041a18c9"
+        "md5": "40d101b69c6a8b06f3609e6402e46d4f"
     },
     {
         "path": "amp/uscite-del-sabato",
@@ -162,7 +152,7 @@
     {
         "path": "/amp/uscite-del-sabato/index.html",
         "type": "file",
-        "md5": "044138bc10fc96fe7527f3051a856e36"
+        "md5": "8ad7fb43588e6c232d4b16bff0f5ef92"
     },
     {
         "path": "amp/valutazionelivello",
@@ -172,7 +162,17 @@
     {
         "path": "/amp/valutazionelivello/index.html",
         "type": "file",
-        "md5": "1e176b3efd8ac5a3e1b0fc304d697a2b"
+        "md5": "6cec6005dd48fa5a904d5161356c67e3"
+    },
+    {
+        "path": "amp/whatsapp",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/whatsapp/index.html",
+        "type": "file",
+        "md5": "e4d5345aad67caa796e5032379351308"
     },
     {
         "path": "amp/work-in-progress",
@@ -182,7 +182,7 @@
     {
         "path": "/amp/work-in-progress/index.html",
         "type": "file",
-        "md5": "f1d404cecee1849bf7571d4566e80a54"
+        "md5": "4e0267d93272053c7f087f5f70bfb9b6"
     },
     {
         "path": "assets",
@@ -200,14 +200,9 @@
         "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
     },
     {
-        "path": "/assets/css/fontawesome-all.min.css",
-        "type": "file",
-        "md5": "dbf9d822cefe851ba6f66e1ad57e8987"
-    },
-    {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "2ec7b6c2ece1abf73edb122583c829c3"
+        "md5": "6948a0f12cf0d51dacef895609eab022"
     },
     {
         "path": "/assets/css/noscript.css",
@@ -222,7 +217,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "e46cea1debb969e46d711166b9a0d61a"
+        "md5": "9adf43d5b98bbe8c5e4f71c42a14cb42"
     },
     {
         "path": "assets/dynamic",
@@ -315,86 +310,6 @@
         "md5": "0bb1f41e2e459d23628833c37d8532f0"
     },
     {
-        "path": "assets/webfonts",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/webfonts/fa-brands-400.eot",
-        "type": "file",
-        "md5": "b05644a0e6970debcdfc0fd82f23aa08"
-    },
-    {
-        "path": "/assets/webfonts/fa-brands-400.svg",
-        "type": "file",
-        "md5": "073c2f3ce60eaf69cc2767ef3d989078"
-    },
-    {
-        "path": "/assets/webfonts/fa-brands-400.ttf",
-        "type": "file",
-        "md5": "6c9fcd0ca0dde442dde738b116f74915"
-    },
-    {
-        "path": "/assets/webfonts/fa-brands-400.woff",
-        "type": "file",
-        "md5": "ebd4eb0cc1ab37ddb5b130cd73d3966c"
-    },
-    {
-        "path": "/assets/webfonts/fa-brands-400.woff2",
-        "type": "file",
-        "md5": "24e1b50f4d24edc02f5378718d8edebc"
-    },
-    {
-        "path": "/assets/webfonts/fa-regular-400.eot",
-        "type": "file",
-        "md5": "75c4b8ad5135473892a937ac9e096416"
-    },
-    {
-        "path": "/assets/webfonts/fa-regular-400.svg",
-        "type": "file",
-        "md5": "8fdea4e89ac405d9f8db327adb331d8d"
-    },
-    {
-        "path": "/assets/webfonts/fa-regular-400.ttf",
-        "type": "file",
-        "md5": "aee02d2631ce1bf0b15f315fdbc8a15b"
-    },
-    {
-        "path": "/assets/webfonts/fa-regular-400.woff",
-        "type": "file",
-        "md5": "d09f7b6d6c01f76269ca2c3b1c824035"
-    },
-    {
-        "path": "/assets/webfonts/fa-regular-400.woff2",
-        "type": "file",
-        "md5": "779bf2bfee7971682f99395d70dbc8e7"
-    },
-    {
-        "path": "/assets/webfonts/fa-solid-900.eot",
-        "type": "file",
-        "md5": "7afc371b7bc17aba155a585baef72b50"
-    },
-    {
-        "path": "/assets/webfonts/fa-solid-900.svg",
-        "type": "file",
-        "md5": "b557f56e367e59344ca95f9d1fb44352"
-    },
-    {
-        "path": "/assets/webfonts/fa-solid-900.ttf",
-        "type": "file",
-        "md5": "ecbca7b92b743d033cfedb359261ece9"
-    },
-    {
-        "path": "/assets/webfonts/fa-solid-900.woff",
-        "type": "file",
-        "md5": "63c029bd930de41bdad297c6043894c4"
-    },
-    {
-        "path": "/assets/webfonts/fa-solid-900.woff2",
-        "type": "file",
-        "md5": "12e8fa3cf9b326918dec547d10fe7f34"
-    },
-    {
         "path": "autori",
         "type": "directory",
         "md5": false
@@ -407,17 +322,17 @@
     {
         "path": "/autori/jose-del-romano/index.html",
         "type": "file",
-        "md5": "1795c450f357a5345b5603ed6b373507"
+        "md5": "cee41081671062e913c77feb29df4a07"
     },
     {
-        "path": "calendario",
+        "path": "campo-di-natale",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/calendario/index.html",
+        "path": "/campo-di-natale/index.html",
         "type": "file",
-        "md5": "b467b69ff961e817dac54224a92e11d1"
+        "md5": "46f0d4bf07514125e9966c45d1d6c61b"
     },
     {
         "path": "cg",
@@ -427,7 +342,7 @@
     {
         "path": "/cg/index.html",
         "type": "file",
-        "md5": "01873e81c4c85bd5f0305f244037e13f"
+        "md5": "bbd85d0294a5407fd8b1864c454c3167"
     },
     {
         "path": "comitato",
@@ -437,7 +352,7 @@
     {
         "path": "/comitato/index.html",
         "type": "file",
-        "md5": "b36b02fc949667bca2489c57fad7d4cc"
+        "md5": "eb9ed8c16dbc2e09eebf3bfa486a9b0b"
     },
     {
         "path": "contatti",
@@ -447,7 +362,7 @@
     {
         "path": "/contatti/index.html",
         "type": "file",
-        "md5": "b514c445ba13ea807abb749aa67a753f"
+        "md5": "ecf00e7139a606fe7556e8fa0a0015ae"
     },
     {
         "path": "corso-quadri",
@@ -457,17 +372,17 @@
     {
         "path": "/corso-quadri/index.html",
         "type": "file",
-        "md5": "4cb31cdef8b49412b67a46fb54da7d4a"
+        "md5": "6d8c0bb0ae75abd965a3d96aa0a8e30b"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "67e0b87685599c5e4671bdc7763ca2b8"
+        "md5": "297577a83448b7c56b86b7588645eb95"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "634d0fcac2dcc88d53645d795a026c45"
+        "md5": "cd4689c105ee4596565da50fffd130bf"
     },
     {
         "path": "ginnastica-presciatoria",
@@ -477,22 +392,12 @@
     {
         "path": "/ginnastica-presciatoria/index.html",
         "type": "file",
-        "md5": "c2ec6b9bdc7bb4eaa17af516aca7ffc5"
-    },
-    {
-        "path": "in-evidenza",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/in-evidenza/index.html",
-        "type": "file",
-        "md5": "7c83af610e99fe484354b66c45909f53"
+        "md5": "01403fbabb7069cb34ac4e0199bf2239"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "22bb3dc21f4140a190adbb91f50f73d9"
+        "md5": "2551539fdc2d79d976595d24977cee74"
     },
     {
         "path": "iscrizione",
@@ -502,7 +407,7 @@
     {
         "path": "/iscrizione/index.html",
         "type": "file",
-        "md5": "20243eac7a190b544ccab809c6c0ba1c"
+        "md5": "62e491d8dd73f22e5231006fb3492151"
     },
     {
         "path": "media",
@@ -515,19 +420,9 @@
         "md5": false
     },
     {
-        "path": "/media/files/bieffe.jpg",
-        "type": "file",
-        "md5": "ff29fde62fd110786e2cc1928f320877"
-    },
-    {
         "path": "/media/files/ennioferrari.png",
         "type": "file",
-        "md5": "e8f20333f4d293e6092fbe0267a20c32"
-    },
-    {
-        "path": "/media/files/favicon.ico",
-        "type": "file",
-        "md5": "65d957d09351a351d1898db1773b45d1"
+        "md5": "265721f277303761da5cf6d5139967a6"
     },
     {
         "path": "/media/files/gecorecycling.png",
@@ -535,54 +430,24 @@
         "md5": "77e186532e4fa3f2656df729c4113286"
     },
     {
-        "path": "/media/files/grottosacchi.png",
+        "path": "/media/files/swiss-ski_logo.png",
         "type": "file",
-        "md5": "4b03e1e8e2127234fd0df65ccd24fdbe"
-    },
-    {
-        "path": "/media/files/polizza-versamento-sclp.png",
-        "type": "file",
-        "md5": "d7f0a8d3979c7643c446aa036143f13e"
-    },
-    {
-        "path": "/media/files/promotionaltools.png",
-        "type": "file",
-        "md5": "1592bd0962b0b78bf58edd1bbf6a1b1b"
-    },
-    {
-        "path": "/media/files/rigassipinchetti.png",
-        "type": "file",
-        "md5": "4a0d350a296f26c21f41dbc64e521cae"
-    },
-    {
-        "path": "/media/files/savioni.jpg",
-        "type": "file",
-        "md5": "321368b8448ab6f0e162c35ee099e716"
-    },
-    {
-        "path": "/media/files/scuter.png",
-        "type": "file",
-        "md5": "bae195cc2682dc66e796ac9b799021d4"
-    },
-    {
-        "path": "/media/files/sika.png",
-        "type": "file",
-        "md5": "c73ab715b7c00bd43aa9a5bd202e7505"
-    },
-    {
-        "path": "/media/files/spaeter.png",
-        "type": "file",
-        "md5": "8c5e5d8888a96a61f9b4525af2b15d32"
-    },
-    {
-        "path": "/media/files/zeissneutra.png",
-        "type": "file",
-        "md5": "0a1765d35099f0505920654da0e08536"
+        "md5": "5f74d698069209b8e09545b0172c6b13"
     },
     {
         "path": "media/posts",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/Work-in-progress-1024x603.png",
+        "type": "file",
+        "md5": "3449565f8b0dd80009031e02a26ce2ea"
     },
     {
         "path": "media/posts/2",
@@ -613,341 +478,6 @@
         "path": "/media/posts/2/promotionaltools-2.png",
         "type": "file",
         "md5": "1592bd0962b0b78bf58edd1bbf6a1b1b"
-    },
-    {
-        "path": "media/posts/2/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/2/responsive/bieffe-2-2xl.jpg",
-        "type": "file",
-        "md5": "dba409adc00501e9a07cba398bff26c4"
-    },
-    {
-        "path": "/media/posts/2/responsive/bieffe-2-lg.jpg",
-        "type": "file",
-        "md5": "dba409adc00501e9a07cba398bff26c4"
-    },
-    {
-        "path": "/media/posts/2/responsive/bieffe-2-md.jpg",
-        "type": "file",
-        "md5": "dba409adc00501e9a07cba398bff26c4"
-    },
-    {
-        "path": "/media/posts/2/responsive/bieffe-2-sm.jpg",
-        "type": "file",
-        "md5": "dba409adc00501e9a07cba398bff26c4"
-    },
-    {
-        "path": "/media/posts/2/responsive/bieffe-2-xl.jpg",
-        "type": "file",
-        "md5": "dba409adc00501e9a07cba398bff26c4"
-    },
-    {
-        "path": "/media/posts/2/responsive/bieffe-2-xs.jpg",
-        "type": "file",
-        "md5": "dba409adc00501e9a07cba398bff26c4"
-    },
-    {
-        "path": "/media/posts/2/responsive/ennioferrari-2xl.png",
-        "type": "file",
-        "md5": "575dae9a634bcba19b862f7dc2500572"
-    },
-    {
-        "path": "/media/posts/2/responsive/ennioferrari-lg.png",
-        "type": "file",
-        "md5": "575dae9a634bcba19b862f7dc2500572"
-    },
-    {
-        "path": "/media/posts/2/responsive/ennioferrari-md.png",
-        "type": "file",
-        "md5": "575dae9a634bcba19b862f7dc2500572"
-    },
-    {
-        "path": "/media/posts/2/responsive/ennioferrari-sm.png",
-        "type": "file",
-        "md5": "575dae9a634bcba19b862f7dc2500572"
-    },
-    {
-        "path": "/media/posts/2/responsive/ennioferrari-xl.png",
-        "type": "file",
-        "md5": "575dae9a634bcba19b862f7dc2500572"
-    },
-    {
-        "path": "/media/posts/2/responsive/ennioferrari-xs.png",
-        "type": "file",
-        "md5": "e8474d1079dfe20005dca4b6c30cdef3"
-    },
-    {
-        "path": "/media/posts/2/responsive/gecorecycling-2xl.png",
-        "type": "file",
-        "md5": "7ddcaaf14e43f5521b24142f13903912"
-    },
-    {
-        "path": "/media/posts/2/responsive/gecorecycling-lg.png",
-        "type": "file",
-        "md5": "7ddcaaf14e43f5521b24142f13903912"
-    },
-    {
-        "path": "/media/posts/2/responsive/gecorecycling-md.png",
-        "type": "file",
-        "md5": "7ddcaaf14e43f5521b24142f13903912"
-    },
-    {
-        "path": "/media/posts/2/responsive/gecorecycling-sm.png",
-        "type": "file",
-        "md5": "7ddcaaf14e43f5521b24142f13903912"
-    },
-    {
-        "path": "/media/posts/2/responsive/gecorecycling-xl.png",
-        "type": "file",
-        "md5": "7ddcaaf14e43f5521b24142f13903912"
-    },
-    {
-        "path": "/media/posts/2/responsive/gecorecycling-xs.png",
-        "type": "file",
-        "md5": "b3b46599aa13ceb425ed46284b96a5cb"
-    },
-    {
-        "path": "/media/posts/2/responsive/grottosacchi-2-2xl.png",
-        "type": "file",
-        "md5": "2a1cde08896dd3d3d13268acfe65d7cc"
-    },
-    {
-        "path": "/media/posts/2/responsive/grottosacchi-2-lg.png",
-        "type": "file",
-        "md5": "2a1cde08896dd3d3d13268acfe65d7cc"
-    },
-    {
-        "path": "/media/posts/2/responsive/grottosacchi-2-md.png",
-        "type": "file",
-        "md5": "2a1cde08896dd3d3d13268acfe65d7cc"
-    },
-    {
-        "path": "/media/posts/2/responsive/grottosacchi-2-sm.png",
-        "type": "file",
-        "md5": "2a1cde08896dd3d3d13268acfe65d7cc"
-    },
-    {
-        "path": "/media/posts/2/responsive/grottosacchi-2-xl.png",
-        "type": "file",
-        "md5": "2a1cde08896dd3d3d13268acfe65d7cc"
-    },
-    {
-        "path": "/media/posts/2/responsive/grottosacchi-2-xs.png",
-        "type": "file",
-        "md5": "2a1cde08896dd3d3d13268acfe65d7cc"
-    },
-    {
-        "path": "/media/posts/2/responsive/promotionaltools-2-2xl.png",
-        "type": "file",
-        "md5": "c1aed8a6d739126ad939c347d018ab35"
-    },
-    {
-        "path": "/media/posts/2/responsive/promotionaltools-2-lg.png",
-        "type": "file",
-        "md5": "c1aed8a6d739126ad939c347d018ab35"
-    },
-    {
-        "path": "/media/posts/2/responsive/promotionaltools-2-md.png",
-        "type": "file",
-        "md5": "c1aed8a6d739126ad939c347d018ab35"
-    },
-    {
-        "path": "/media/posts/2/responsive/promotionaltools-2-sm.png",
-        "type": "file",
-        "md5": "c1aed8a6d739126ad939c347d018ab35"
-    },
-    {
-        "path": "/media/posts/2/responsive/promotionaltools-2-xl.png",
-        "type": "file",
-        "md5": "c1aed8a6d739126ad939c347d018ab35"
-    },
-    {
-        "path": "/media/posts/2/responsive/promotionaltools-2-xs.png",
-        "type": "file",
-        "md5": "c1aed8a6d739126ad939c347d018ab35"
-    },
-    {
-        "path": "/media/posts/2/responsive/rigassipinchetti-2-2xl.png",
-        "type": "file",
-        "md5": "51a9b5a0ec8b43b90a3b1a4161512f28"
-    },
-    {
-        "path": "/media/posts/2/responsive/rigassipinchetti-2-lg.png",
-        "type": "file",
-        "md5": "51a9b5a0ec8b43b90a3b1a4161512f28"
-    },
-    {
-        "path": "/media/posts/2/responsive/rigassipinchetti-2-md.png",
-        "type": "file",
-        "md5": "51a9b5a0ec8b43b90a3b1a4161512f28"
-    },
-    {
-        "path": "/media/posts/2/responsive/rigassipinchetti-2-sm.png",
-        "type": "file",
-        "md5": "51a9b5a0ec8b43b90a3b1a4161512f28"
-    },
-    {
-        "path": "/media/posts/2/responsive/rigassipinchetti-2-xl.png",
-        "type": "file",
-        "md5": "51a9b5a0ec8b43b90a3b1a4161512f28"
-    },
-    {
-        "path": "/media/posts/2/responsive/rigassipinchetti-2-xs.png",
-        "type": "file",
-        "md5": "51a9b5a0ec8b43b90a3b1a4161512f28"
-    },
-    {
-        "path": "/media/posts/2/responsive/savioni-2-2xl.jpg",
-        "type": "file",
-        "md5": "e8f20333f4d293e6092fbe0267a20c32"
-    },
-    {
-        "path": "/media/posts/2/responsive/savioni-2-lg.jpg",
-        "type": "file",
-        "md5": "e8f20333f4d293e6092fbe0267a20c32"
-    },
-    {
-        "path": "/media/posts/2/responsive/savioni-2-md.jpg",
-        "type": "file",
-        "md5": "e8f20333f4d293e6092fbe0267a20c32"
-    },
-    {
-        "path": "/media/posts/2/responsive/savioni-2-sm.jpg",
-        "type": "file",
-        "md5": "e8f20333f4d293e6092fbe0267a20c32"
-    },
-    {
-        "path": "/media/posts/2/responsive/savioni-2-xl.jpg",
-        "type": "file",
-        "md5": "e8f20333f4d293e6092fbe0267a20c32"
-    },
-    {
-        "path": "/media/posts/2/responsive/savioni-2-xs.jpg",
-        "type": "file",
-        "md5": "e8f20333f4d293e6092fbe0267a20c32"
-    },
-    {
-        "path": "/media/posts/2/responsive/scuter-2-2xl.png",
-        "type": "file",
-        "md5": "7c3e3410a1cd96419988c32bd608af38"
-    },
-    {
-        "path": "/media/posts/2/responsive/scuter-2-lg.png",
-        "type": "file",
-        "md5": "7c3e3410a1cd96419988c32bd608af38"
-    },
-    {
-        "path": "/media/posts/2/responsive/scuter-2-md.png",
-        "type": "file",
-        "md5": "7c3e3410a1cd96419988c32bd608af38"
-    },
-    {
-        "path": "/media/posts/2/responsive/scuter-2-sm.png",
-        "type": "file",
-        "md5": "7c3e3410a1cd96419988c32bd608af38"
-    },
-    {
-        "path": "/media/posts/2/responsive/scuter-2-xl.png",
-        "type": "file",
-        "md5": "7c3e3410a1cd96419988c32bd608af38"
-    },
-    {
-        "path": "/media/posts/2/responsive/scuter-2-xs.png",
-        "type": "file",
-        "md5": "7c3e3410a1cd96419988c32bd608af38"
-    },
-    {
-        "path": "/media/posts/2/responsive/sika-2-2xl.png",
-        "type": "file",
-        "md5": "c581fffeb2346d6032857c915e9a65e2"
-    },
-    {
-        "path": "/media/posts/2/responsive/sika-2-lg.png",
-        "type": "file",
-        "md5": "c581fffeb2346d6032857c915e9a65e2"
-    },
-    {
-        "path": "/media/posts/2/responsive/sika-2-md.png",
-        "type": "file",
-        "md5": "c581fffeb2346d6032857c915e9a65e2"
-    },
-    {
-        "path": "/media/posts/2/responsive/sika-2-sm.png",
-        "type": "file",
-        "md5": "c581fffeb2346d6032857c915e9a65e2"
-    },
-    {
-        "path": "/media/posts/2/responsive/sika-2-xl.png",
-        "type": "file",
-        "md5": "c581fffeb2346d6032857c915e9a65e2"
-    },
-    {
-        "path": "/media/posts/2/responsive/sika-2-xs.png",
-        "type": "file",
-        "md5": "c581fffeb2346d6032857c915e9a65e2"
-    },
-    {
-        "path": "/media/posts/2/responsive/spaeter-2-2xl.png",
-        "type": "file",
-        "md5": "e1cccd854357d970e147de7911c961d3"
-    },
-    {
-        "path": "/media/posts/2/responsive/spaeter-2-lg.png",
-        "type": "file",
-        "md5": "e1cccd854357d970e147de7911c961d3"
-    },
-    {
-        "path": "/media/posts/2/responsive/spaeter-2-md.png",
-        "type": "file",
-        "md5": "e1cccd854357d970e147de7911c961d3"
-    },
-    {
-        "path": "/media/posts/2/responsive/spaeter-2-sm.png",
-        "type": "file",
-        "md5": "e1cccd854357d970e147de7911c961d3"
-    },
-    {
-        "path": "/media/posts/2/responsive/spaeter-2-xl.png",
-        "type": "file",
-        "md5": "e1cccd854357d970e147de7911c961d3"
-    },
-    {
-        "path": "/media/posts/2/responsive/spaeter-2-xs.png",
-        "type": "file",
-        "md5": "e1cccd854357d970e147de7911c961d3"
-    },
-    {
-        "path": "/media/posts/2/responsive/zeissneutra-2xl.png",
-        "type": "file",
-        "md5": "6c9a791c651d3fcf479bcda4518cbd92"
-    },
-    {
-        "path": "/media/posts/2/responsive/zeissneutra-lg.png",
-        "type": "file",
-        "md5": "6c9a791c651d3fcf479bcda4518cbd92"
-    },
-    {
-        "path": "/media/posts/2/responsive/zeissneutra-md.png",
-        "type": "file",
-        "md5": "6c9a791c651d3fcf479bcda4518cbd92"
-    },
-    {
-        "path": "/media/posts/2/responsive/zeissneutra-sm.png",
-        "type": "file",
-        "md5": "6c9a791c651d3fcf479bcda4518cbd92"
-    },
-    {
-        "path": "/media/posts/2/responsive/zeissneutra-xl.png",
-        "type": "file",
-        "md5": "6c9a791c651d3fcf479bcda4518cbd92"
-    },
-    {
-        "path": "/media/posts/2/responsive/zeissneutra-xs.png",
-        "type": "file",
-        "md5": "6c9a791c651d3fcf479bcda4518cbd92"
     },
     {
         "path": "/media/posts/2/rigassipinchetti-2.png",
@@ -1100,66 +630,6 @@
         "md5": "08453c0e9870b24869f76416d29c284a"
     },
     {
-        "path": "media/posts/4/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/4/responsive/CorsoQuadri-2021-2-lg.jpg",
-        "type": "file",
-        "md5": "f2e79cea61e9cedc9f2c5ec05a899641"
-    },
-    {
-        "path": "/media/posts/4/responsive/CorsoQuadri-2021-2-md.jpg",
-        "type": "file",
-        "md5": "f32a3bfcf85732a264f9ac8ba7e9ffc8"
-    },
-    {
-        "path": "/media/posts/4/responsive/CorsoQuadri-2021-2-sm.jpg",
-        "type": "file",
-        "md5": "77e5510044b979726e5721e02bed9a96"
-    },
-    {
-        "path": "/media/posts/4/responsive/CorsoQuadri-2021-2-xl.jpg",
-        "type": "file",
-        "md5": "23fb5b0db33d64ddba70a197a0b3e4b8"
-    },
-    {
-        "path": "/media/posts/4/responsive/CorsoQuadri-2021-2-xs.jpg",
-        "type": "file",
-        "md5": "1d51159c0c60bcaab180eae071687d1a"
-    },
-    {
-        "path": "/media/posts/4/responsive/lele-2xl.png",
-        "type": "file",
-        "md5": "a7243c145ac5326864b38d601c466cbf"
-    },
-    {
-        "path": "/media/posts/4/responsive/lele-lg.png",
-        "type": "file",
-        "md5": "a7243c145ac5326864b38d601c466cbf"
-    },
-    {
-        "path": "/media/posts/4/responsive/lele-md.png",
-        "type": "file",
-        "md5": "a7243c145ac5326864b38d601c466cbf"
-    },
-    {
-        "path": "/media/posts/4/responsive/lele-sm.png",
-        "type": "file",
-        "md5": "a7243c145ac5326864b38d601c466cbf"
-    },
-    {
-        "path": "/media/posts/4/responsive/lele-xl.png",
-        "type": "file",
-        "md5": "a7243c145ac5326864b38d601c466cbf"
-    },
-    {
-        "path": "/media/posts/4/responsive/lele-xs.png",
-        "type": "file",
-        "md5": "a7243c145ac5326864b38d601c466cbf"
-    },
-    {
         "path": "media/posts/6",
         "type": "directory",
         "md5": false
@@ -1183,161 +653,6 @@
         "path": "/media/posts/6/qrcode-sclp.png",
         "type": "file",
         "md5": "d1e214726f7363edbe577c65465dcf4b"
-    },
-    {
-        "path": "media/posts/6/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/6/responsive/facebook-logo-2xl.png",
-        "type": "file",
-        "md5": "e9610053a422ecf2f33a75323b36989f"
-    },
-    {
-        "path": "/media/posts/6/responsive/facebook-logo-lg.png",
-        "type": "file",
-        "md5": "e9610053a422ecf2f33a75323b36989f"
-    },
-    {
-        "path": "/media/posts/6/responsive/facebook-logo-md.png",
-        "type": "file",
-        "md5": "e9610053a422ecf2f33a75323b36989f"
-    },
-    {
-        "path": "/media/posts/6/responsive/facebook-logo-sm.png",
-        "type": "file",
-        "md5": "e9610053a422ecf2f33a75323b36989f"
-    },
-    {
-        "path": "/media/posts/6/responsive/facebook-logo-xl.png",
-        "type": "file",
-        "md5": "e9610053a422ecf2f33a75323b36989f"
-    },
-    {
-        "path": "/media/posts/6/responsive/facebook-logo-xs.png",
-        "type": "file",
-        "md5": "e9610053a422ecf2f33a75323b36989f"
-    },
-    {
-        "path": "/media/posts/6/responsive/instagram-logo-2-2xl.png",
-        "type": "file",
-        "md5": "84185be64446b0fa116a780829048137"
-    },
-    {
-        "path": "/media/posts/6/responsive/instagram-logo-2-lg.png",
-        "type": "file",
-        "md5": "84185be64446b0fa116a780829048137"
-    },
-    {
-        "path": "/media/posts/6/responsive/instagram-logo-2-md.png",
-        "type": "file",
-        "md5": "84185be64446b0fa116a780829048137"
-    },
-    {
-        "path": "/media/posts/6/responsive/instagram-logo-2-sm.png",
-        "type": "file",
-        "md5": "84185be64446b0fa116a780829048137"
-    },
-    {
-        "path": "/media/posts/6/responsive/instagram-logo-2-xl.png",
-        "type": "file",
-        "md5": "84185be64446b0fa116a780829048137"
-    },
-    {
-        "path": "/media/posts/6/responsive/instagram-logo-2-xs.png",
-        "type": "file",
-        "md5": "84185be64446b0fa116a780829048137"
-    },
-    {
-        "path": "/media/posts/6/responsive/instagram-logo-2xl.png",
-        "type": "file",
-        "md5": "84185be64446b0fa116a780829048137"
-    },
-    {
-        "path": "/media/posts/6/responsive/instagram-logo-lg.png",
-        "type": "file",
-        "md5": "84185be64446b0fa116a780829048137"
-    },
-    {
-        "path": "/media/posts/6/responsive/instagram-logo-md.png",
-        "type": "file",
-        "md5": "84185be64446b0fa116a780829048137"
-    },
-    {
-        "path": "/media/posts/6/responsive/instagram-logo-sm.png",
-        "type": "file",
-        "md5": "84185be64446b0fa116a780829048137"
-    },
-    {
-        "path": "/media/posts/6/responsive/instagram-logo-xl.png",
-        "type": "file",
-        "md5": "84185be64446b0fa116a780829048137"
-    },
-    {
-        "path": "/media/posts/6/responsive/instagram-logo-xs.png",
-        "type": "file",
-        "md5": "84185be64446b0fa116a780829048137"
-    },
-    {
-        "path": "/media/posts/6/responsive/qrcode-sclp-2xl.png",
-        "type": "file",
-        "md5": "2037b9c45668e1aaf9203f38b9bff7f4"
-    },
-    {
-        "path": "/media/posts/6/responsive/qrcode-sclp-lg.png",
-        "type": "file",
-        "md5": "2037b9c45668e1aaf9203f38b9bff7f4"
-    },
-    {
-        "path": "/media/posts/6/responsive/qrcode-sclp-md.png",
-        "type": "file",
-        "md5": "2037b9c45668e1aaf9203f38b9bff7f4"
-    },
-    {
-        "path": "/media/posts/6/responsive/qrcode-sclp-sm.png",
-        "type": "file",
-        "md5": "2037b9c45668e1aaf9203f38b9bff7f4"
-    },
-    {
-        "path": "/media/posts/6/responsive/qrcode-sclp-xl.png",
-        "type": "file",
-        "md5": "2037b9c45668e1aaf9203f38b9bff7f4"
-    },
-    {
-        "path": "/media/posts/6/responsive/qrcode-sclp-xs.png",
-        "type": "file",
-        "md5": "2037b9c45668e1aaf9203f38b9bff7f4"
-    },
-    {
-        "path": "/media/posts/6/responsive/wattsapp-logo-2xl.png",
-        "type": "file",
-        "md5": "63bac2a8e88021dd997efbd9d8271be2"
-    },
-    {
-        "path": "/media/posts/6/responsive/wattsapp-logo-lg.png",
-        "type": "file",
-        "md5": "63bac2a8e88021dd997efbd9d8271be2"
-    },
-    {
-        "path": "/media/posts/6/responsive/wattsapp-logo-md.png",
-        "type": "file",
-        "md5": "63bac2a8e88021dd997efbd9d8271be2"
-    },
-    {
-        "path": "/media/posts/6/responsive/wattsapp-logo-sm.png",
-        "type": "file",
-        "md5": "63bac2a8e88021dd997efbd9d8271be2"
-    },
-    {
-        "path": "/media/posts/6/responsive/wattsapp-logo-xl.png",
-        "type": "file",
-        "md5": "63bac2a8e88021dd997efbd9d8271be2"
-    },
-    {
-        "path": "/media/posts/6/responsive/wattsapp-logo-xs.png",
-        "type": "file",
-        "md5": "63bac2a8e88021dd997efbd9d8271be2"
     },
     {
         "path": "/media/posts/6/wattsapp-logo.png",
@@ -1365,41 +680,6 @@
         "md5": "90ec4c645b4d9d9cb16bc56c975323c5"
     },
     {
-        "path": "media/tags/3/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/tags/3/responsive/CorsoQuadri-2021-sm.jpg",
-        "type": "file",
-        "md5": "f32a3bfcf85732a264f9ac8ba7e9ffc8"
-    },
-    {
-        "path": "/media/tags/3/responsive/CorsoQuadri-2021-sm2.jpg",
-        "type": "file",
-        "md5": "77e5510044b979726e5721e02bed9a96"
-    },
-    {
-        "path": "/media/tags/3/responsive/CorsoQuadri-2021-xs.jpg",
-        "type": "file",
-        "md5": "1d51159c0c60bcaab180eae071687d1a"
-    },
-    {
-        "path": "/media/tags/3/responsive/Disentis-2022-sm.jpg",
-        "type": "file",
-        "md5": "53d96a0b515c5942e95b2aa0d2547197"
-    },
-    {
-        "path": "/media/tags/3/responsive/Disentis-2022-sm2.jpg",
-        "type": "file",
-        "md5": "6d9a8084092d5c850367433077219ee1"
-    },
-    {
-        "path": "/media/tags/3/responsive/Disentis-2022-xs.jpg",
-        "type": "file",
-        "md5": "98b5cfd270bf8acb8b88fcb704ffd1d7"
-    },
-    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -1420,131 +700,6 @@
         "md5": "97a5d310f4541606145bad00c5c7432b"
     },
     {
-        "path": "media/website/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/website/responsive/JoZ-Io-2xl.jpg",
-        "type": "file",
-        "md5": "84d56ab4c2220f697bd3026d24a98370"
-    },
-    {
-        "path": "/media/website/responsive/JoZ-Io-lg.jpg",
-        "type": "file",
-        "md5": "44ba16bc7ac6c41d632da28ca104c717"
-    },
-    {
-        "path": "/media/website/responsive/JoZ-Io-md.jpg",
-        "type": "file",
-        "md5": "46d2d40992639772380308d0079d558d"
-    },
-    {
-        "path": "/media/website/responsive/JoZ-Io-sm.jpg",
-        "type": "file",
-        "md5": "1e5718526cc5cfc9ccce11bf5d2da137"
-    },
-    {
-        "path": "/media/website/responsive/JoZ-Io-xl.jpg",
-        "type": "file",
-        "md5": "84d56ab4c2220f697bd3026d24a98370"
-    },
-    {
-        "path": "/media/website/responsive/JoZ-Io-xs.jpg",
-        "type": "file",
-        "md5": "110bd8232ef8c11d79a633adbdb19073"
-    },
-    {
-        "path": "/media/website/responsive/logoScritta-2xl.png",
-        "type": "file",
-        "md5": "17dfa07f1a4b6f49154b6855d813db6b"
-    },
-    {
-        "path": "/media/website/responsive/logoScritta-lg.png",
-        "type": "file",
-        "md5": "cd61a030dd13ac994703af1bad789c80"
-    },
-    {
-        "path": "/media/website/responsive/logoScritta-md.png",
-        "type": "file",
-        "md5": "29781a16cff56422861c89f2c2392e69"
-    },
-    {
-        "path": "/media/website/responsive/logoScritta-sm.png",
-        "type": "file",
-        "md5": "f8ff45ef554f6e9f673450cc28456c10"
-    },
-    {
-        "path": "/media/website/responsive/logoScritta-xl.png",
-        "type": "file",
-        "md5": "17dfa07f1a4b6f49154b6855d813db6b"
-    },
-    {
-        "path": "/media/website/responsive/logoScritta-xs.png",
-        "type": "file",
-        "md5": "dcef2dd09a0aa0b1e8642aa8314f77c5"
-    },
-    {
-        "path": "/media/website/responsive/logoScrittaBianco-2xl.jpg",
-        "type": "file",
-        "md5": "b71754c1a0fcb2f9d5115d68dbd2f3c3"
-    },
-    {
-        "path": "/media/website/responsive/logoScrittaBianco-lg.jpg",
-        "type": "file",
-        "md5": "d0fea5509091fb39a76b3049f5b664e9"
-    },
-    {
-        "path": "/media/website/responsive/logoScrittaBianco-md.jpg",
-        "type": "file",
-        "md5": "ee15b69626cc0da40f35b303067edf53"
-    },
-    {
-        "path": "/media/website/responsive/logoScrittaBianco-sm.jpg",
-        "type": "file",
-        "md5": "7ad9f0e499f0286a20cfcedb8864b819"
-    },
-    {
-        "path": "/media/website/responsive/logoScrittaBianco-xl.jpg",
-        "type": "file",
-        "md5": "b71754c1a0fcb2f9d5115d68dbd2f3c3"
-    },
-    {
-        "path": "/media/website/responsive/logoScrittaBianco-xs.jpg",
-        "type": "file",
-        "md5": "17b6e4b54e35df6b2e7a296a489c7a76"
-    },
-    {
-        "path": "/media/website/responsive/Sedrun-2022-2-2xl.jpg",
-        "type": "file",
-        "md5": "667c8192a504b27997ded541b81c4320"
-    },
-    {
-        "path": "/media/website/responsive/Sedrun-2022-2-lg.jpg",
-        "type": "file",
-        "md5": "6133e0aedec2ef76d5afa84020ee1903"
-    },
-    {
-        "path": "/media/website/responsive/Sedrun-2022-2-md.jpg",
-        "type": "file",
-        "md5": "f17b14b7feb49b4790a5489c0930bec2"
-    },
-    {
-        "path": "/media/website/responsive/Sedrun-2022-2-sm.jpg",
-        "type": "file",
-        "md5": "9981a47708eb11502286f666e86b9858"
-    },
-    {
-        "path": "/media/website/responsive/Sedrun-2022-2-xl.jpg",
-        "type": "file",
-        "md5": "c2ab4d1774c2cca30d9b596108367c58"
-    },
-    {
-        "path": "/media/website/responsive/Sedrun-2022-2-xs.jpg",
-        "type": "file",
-        "md5": "9911d7e75031cb6d1ea5b7502c4b8e44"
-    },
-    {
         "path": "/media/website/Sedrun-2022-2.jpg",
         "type": "file",
         "md5": "26cedc4ab0abba35fcaf2c1b18c9c060"
@@ -1557,17 +712,17 @@
     {
         "path": "/mercatino-dellusato/index.html",
         "type": "file",
-        "md5": "94abd456a2c15f56e997fd878fc8c6dc"
+        "md5": "2cdd4920d8173e3955ae10735cadd075"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "42cde093cf13aabbcd3317c1ee45aa6e"
+        "md5": "bc62858edae0763cdf65c5a8dfa399d0"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "87380a769c3734bce42124a3ce625cca"
+        "md5": "86049e600de30fc99775e04828da77e1"
     },
     {
         "path": "sitemap.xsl",
@@ -1582,7 +737,7 @@
     {
         "path": "/sponsor/index.html",
         "type": "file",
-        "md5": "787446d6d729ce33afa34f2782c0b91e"
+        "md5": "1c19bd5263677f107d9783cd329f02f3"
     },
     {
         "path": "statuti",
@@ -1592,7 +747,7 @@
     {
         "path": "/statuti/index.html",
         "type": "file",
-        "md5": "a9fc1c5b3683816df1d4bbdde8a4b1ea"
+        "md5": "f335c81d2688f41bfdb9b7686d25efbd"
     },
     {
         "path": "tags",
@@ -1607,12 +762,12 @@
     {
         "path": "/tags/calendario/index.html",
         "type": "file",
-        "md5": "5a9f29cde7e3f008373a26c33d022caa"
+        "md5": "86bbaf226ef7efac0e48927ce870f605"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "7f2abba45c6157484f1fbb8ae29d2196"
+        "md5": "5242544c49b0982adf9ce66be01b2527"
     },
     {
         "path": "uscite-del-sabato",
@@ -1622,7 +777,7 @@
     {
         "path": "/uscite-del-sabato/index.html",
         "type": "file",
-        "md5": "a4eb567be7c5260efef674e4be6496d1"
+        "md5": "5b9f73fe70f302deed18a3b39e5e1d40"
     },
     {
         "path": "valutazionelivello",
@@ -1632,7 +787,17 @@
     {
         "path": "/valutazionelivello/index.html",
         "type": "file",
-        "md5": "1a0ce2da8a90d78080929b1d75a208af"
+        "md5": "9f8200c514606b4a1bc1cec404305234"
+    },
+    {
+        "path": "whatsapp",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/whatsapp/index.html",
+        "type": "file",
+        "md5": "880eb01c99b7e5c23a7772558b367b66"
     },
     {
         "path": "work-in-progress",
@@ -1642,6 +807,6 @@
     {
         "path": "/work-in-progress/index.html",
         "type": "file",
-        "md5": "29590c79dc69b67440e302376d070832"
+        "md5": "33f716f6b674eb681ff6a1d8b9b87fab"
     }
 ]

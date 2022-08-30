@@ -1,36 +1,29 @@
 
 let themeHelpers = {
     getGoldSponsorImgs: function(imageDir, goldSponsors) {
-        let toReturn = "";
+        let toReturn = [];
         let rowsArray = goldSponsors.split("\n");
-
+        
         if(rowsArray.length){
-            for(let row of rowsArray){
-                let elements = row.split(",");
-                let s_img = "";
-                let s_href = "";
-                let s_alt = "Gold sponsor";
-                if(elements.length >= 1) {
-                    s_img = "<img src=\"" + imageDir + "/" + elements[0] + "\">";
+            
+            for (let i = 0, row; row = rowsArray[i]; i++) {
+                let elements = row.split("|");
+                let rowHtml = "";
+                if(elements.length >= 4) {
+                    rowHtml = elements[3] + "<br>";
                 }
                 if(elements.length >= 3) {
-                    s_alt = elements[2];
+                    //'sponsor url|sponsor name|img fileName'
+                    let s_img = "<img src=\"" + imageDir + "/" + elements[2] + "\">";
+                    let s_href = "<a href=\"" + elements[0] + "\" target=\"_blank\" title=\"" + elements[1] + "\">";
+                    rowHtml = s_href + rowHtml + s_img + "</a>"
                 }
-                if(elements.length >= 2) {
-                    //s_href = "<a href=\"" + elements[1] + "\" title=\"" + s_alt + "\" target=\"_blank\">";
-                    s_href = "<a href=\"" + elements[1] + "\" target=\"_blank\">";
+                if(rowHtml.length){
+                    toReturn.push(rowHtml);
                 }
-
-                if(s_img.length && s_href.length) {
-                    toReturn += s_href + s_img + "</a>"
-                } else {
-                    toReturn += s_alt
-                }
-                
-                toReturn += "<br>";
             }
         }
-        return toReturn;
+        return toReturn.join("<br>");
     }
 };
 

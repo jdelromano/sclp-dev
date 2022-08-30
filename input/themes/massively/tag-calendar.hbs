@@ -7,61 +7,52 @@
 {{> top}}
 
 <div class="main-row">
-<main id="main">
-{{#tag}}
-      <header class="page-header">
-         <h1>
-            {{name}}
-            {{#if @config.custom.postsCount}}
-               <sup>({{postsNumber}})</sup>
+   <main id="main">
+      {{#tag}}
+         <header class="page-header">
+            <h1>
+               {{name}}
+               {{#if @config.custom.postsCount}}
+                  <sup>({{postsNumber}})</sup>
+               {{/if}}
+            </h1>
+            {{#if description}}
+               <p>
+                  {{description}}
+               </p>
             {{/if}}
-         </h1>
-         {{#if description}}
-            <p>
-               {{description}}
-            </p>
-         {{/if}}
-      </header>
-   {{/tag}}
+         </header>
+      {{/tag}}
 
-   <section class="calendarList">
+      <section class="calendarList">
 
+         {{orderby this.posts 'createdAt' 'ASC'}}
 
-      {{#each @website.contentStructure.tags}}
-         {{#checkIf this.additionalData.template '==' 'calendar'}}
-            <p>aaaaaaaaaaaaa</p>
-         {{/checkIf}}
-      {{/each}}
-      
-      {{> share-buttons-calendars}}
+         {{#each posts}}
+            <div class="desc">
+               <a href="{{url}}">
+                  <b>{{date createdAt 'D MMMM YYYY'}}</b><br>
+                  {{title}}
+                  {{#if postViewConfig.introText}}
+                        - {{postViewConfig.introText}}
+                  {{/if}}
+                  {{#if postViewConfig.locationName}}
+                        - {{postViewConfig.locationName}}
+                  {{/if}}
+               </a>      
+            </div>
+         {{/each}}
+         
+         {{orderby this.posts 'createdAt' 'DESC'}}
+         
+      </section>
 
-      {{orderby this.posts 'createdAt' 'ASC'}}
+      {{#if @pagination}}
+         <footer>
+            {{> pagination}}
+         </footer>
+      {{/if}}
 
-      {{#each posts}}
-         <div class="desc">
-            <a href="{{url}}">
-               <b>{{date createdAt 'D MMMM YYYY'}}</b><br>
-               {{title}}
-               {{#if postViewConfig.introText}}
-                     - {{postViewConfig.introText}}
-               {{/if}}
-               {{#if postViewConfig.locationName}}
-                     - {{postViewConfig.locationName}}
-               {{/if}}
-            </a>      
-         </div>
-      {{/each}}
-      
-      {{orderby this.posts 'createdAt' 'DESC'}}
-      
-   </section>
-
-   {{#if @pagination}}
-      <footer>
-         {{> pagination}}
-      </footer>
-   {{/if}}
-
-</main>
+   </main>
 </div>
 {{> footer}}

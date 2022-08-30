@@ -252,23 +252,10 @@
                 }]
         },
         {
-            "name": "frontInEvidence",
-            "label": "In evidence post",
-            "group": "Sidebar",
-            "note": "",
-            "value": "",
-            "type": "wysiwyg",
-            "dependencies": [
-            {
-                "field": "showSidebar",
-                "value": "true"
-            }]
-        },
-        {
             "name": "goldSponsors",
             "label": "Gold sponsors images",
             "group": "Sidebar",
-            "note": "Put the images in the media/files, here make a list of '&ltimageFileName&gt;,&lt;sponsor url&gt;,&lt;&lt;img title&gt;', each image on a new line",
+            "note": "Put the images in the media/files, here make a list of 'sponsor url|sponsor name|img fileName|comment', each on a new line",
             "value": "",
             "type": "textarea",
             "rows": 5,
@@ -1544,10 +1531,6 @@
                     },
                     "xl": {
                         "width": 1360,
-                        "height": "auto"
-                    },
-                    "2xl": {
-                        "width": 1600,
                         "height": "auto"
                     }
                 }

@@ -1,40 +1,31 @@
-<div class="sidebar">
-
-   {{#checkIf @config.custom.frontCalendarId '!=' "" }}
-      {{#getTag @config.custom.frontCalendarId}}
+{{#checkIf @config.custom.frontCalendarId '!=' "" }}
+   {{#getTag @config.custom.frontCalendarId}}
+      {{#isNotEmpty this.posts}}
          {{orderby this.posts 'createdAt' 'ASC'}}
          <div class="sidebarItem">
-         {{#checkIf @config.custom.showCalendarTitle '==' true}}
-         
-            <h3>{{name}}</h3>
-         {{/checkIf}}
-         {{#each posts}}
-               <a href="{{url}}">
-                  <h4>{{date createdAt 'D MMMM YYYY'}}</h4>
-                  {{title}}
-                  {{#if postViewConfig.introText}}
-                        - {{postViewConfig.introText}}
-                  {{/if}}
-                  {{#if postViewConfig.locationName}}
-                        - {{postViewConfig.locationName}}
-                  {{/if}}
-               </a>   
-         {{/each}}
-         {{orderby this.posts 'createdAt' 'DESC'}}
+            {{#checkIf @config.custom.showCalendarTitle '==' true}}
+               <h3>{{name}}</h3>
+            {{/checkIf}}
+            {{#each posts}}
+                  <a href="{{url}}">
+                     <h4>{{date createdAt 'D MMMM YYYY'}}</h4>
+                     {{title}}
+                     {{#if postViewConfig.introText}}
+                           - {{postViewConfig.introText}}
+                     {{/if}}
+                     {{#if postViewConfig.locationName}}
+                           - {{postViewConfig.locationName}}
+                     {{/if}}
+                  </a>
+            {{/each}}
          </div>
-      {{/getTag}}
-   {{/checkIf}}
+         {{orderby this.posts 'createdAt' 'DESC'}}
+      {{/isNotEmpty}}
+   {{/getTag}}
+{{/checkIf}}
 
-   {{#checkIf @config.custom.frontInEvidence '!=' "" }}
-      <div class="sidebarItem">
-         {{{@config.custom.frontInEvidence}}}
-      </div>
-   {{/checkIf}}
-   
-   {{#checkIf @config.custom.goldSponsors '!=' "" }}
-      <div class="sidebarItem">
-      {{{getGoldSponsorImgs @website.mediaFilesUrl @config.custom.goldSponsors}}}
-      </div>
-   {{/checkIf}}
-
-</div>
+{{#checkIf @config.custom.goldSponsors '!=' "" }}
+   <div class="sidebarItem sidebarEvidence">
+   {{{getGoldSponsorImgs @website.mediaFilesUrl @config.custom.goldSponsors}}}
+   </div>
+{{/checkIf}}

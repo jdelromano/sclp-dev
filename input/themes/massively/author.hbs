@@ -7,96 +7,96 @@
 {{> top}}
 
 <div class="main-row">
-<main id="main">
+   <main id="main">
 
-   {{#author}}
-      <header class="page-header author-header">
-         {{#if avatar}}
-            <img 
-               src="{{avatarImage.url}}" 
-               {{ lazyload "lazy" }}
-               height="{{avatarImage.height}}"
-               width="{{avatarImage.width}}"
-               alt="{{avatarImage.alt}}"> 
-         {{/if}}
-         <h1>
-            {{name}}
-            {{#if @config.custom.postsCount}}
-               <sup>({{postsNumber}})</sup>
+      {{#author}}
+         <header class="page-header author-header">
+            {{#if avatar}}
+               <img 
+                  src="{{avatarImage.url}}" 
+                  {{ lazyload "lazy" }}
+                  height="{{avatarImage.height}}"
+                  width="{{avatarImage.width}}"
+                  alt="{{avatarImage.alt}}"> 
             {{/if}}
-         </h1>
-         {{#if description}}
-            <p>{{description}}</p>
-         {{/if}}
-         {{#if website}}
-            <div class="author-website">
-               <i class="fas fa-globe"></i>
-               <a href="{{website}}" target="_blank" rel="nofollow noreferrer noopener">{{ translate 'author.visitWebsite' }}</a>
-            </div>
-         {{/if}}
-      </header>
-   {{/author}}
-
-   <section class="posts">
-      {{#each posts}}
-         <article>
-            <header>
-               {{#if @config.custom.feedDate}}
-                  <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}" class="date">
-                     {{#checkIf @config.custom.formatDate '!=' 'custom'}}
-                        {{date createdAt @config.custom.formatDate}}
-                     {{else}}
-                        {{date createdAt @config.custom.formatDateCustom}}
-                     {{/checkIf}}
-                  </time>
+            <h1>
+               {{name}}
+               {{#if @config.custom.postsCount}}
+                  <sup>({{postsNumber}})</sup>
                {{/if}}
-               <h2>
-                  <a href="{{url}}">{{title}}</a>
-               </h2>
-            </header>
+            </h1>
+            {{#if description}}
+               <p>{{description}}</p>
+            {{/if}}
+            {{#if website}}
+               <div class="author-website">
+                  <i class="fas fa-globe"></i>
+                  <a href="{{website}}" target="_blank" rel="nofollow noreferrer noopener">{{ translate 'author.visitWebsite' }}</a>
+               </div>
+            {{/if}}
+         </header>
+      {{/author}}
 
-            {{#if @config.custom.feedFeaturedImage}}
-               {{#featuredImage}}
-                  {{#if url}}
-                     <a href="{{../url}}" class="image fit">
-                        <img
-                           src="{{url}}"
-                           {{#if @config.site.responsiveImages}}
-                              {{responsiveImageAttributes 'featuredImage' srcset.post sizes.post}}
-                           {{/if}}
-                           {{ lazyload "lazy" }}
-                           height="{{height}}"
-                           width="{{width}}"
-                           alt="{{alt}}">
-                     </a>
+      <section class="posts">
+         {{#each posts}}
+            <article>
+               <header>
+                  {{#if @config.custom.feedDate}}
+                     <time datetime="{{date createdAt 'YYYY-MM-DDTHH:mm'}}" class="date">
+                        {{#checkIf @config.custom.formatDate '!=' 'custom'}}
+                           {{date createdAt @config.custom.formatDate}}
+                        {{else}}
+                           {{date createdAt @config.custom.formatDateCustom}}
+                        {{/checkIf}}
+                     </time>
                   {{/if}}
-               {{/featuredImage}}
-            {{/if}}
+                  <h2>
+                     <a href="{{url}}">{{title}}</a>
+                  </h2>
+               </header>
 
-            {{#if hasCustomExcerpt}}
-               {{{ excerpt }}}
-            {{else}}
-               <p>{{{ excerpt }}}</p>
-            {{/if}}
+               {{#if @config.custom.feedFeaturedImage}}
+                  {{#featuredImage}}
+                     {{#if url}}
+                        <a href="{{../url}}" class="image fit">
+                           <img
+                              src="{{url}}"
+                              {{#if @config.site.responsiveImages}}
+                                 {{responsiveImageAttributes 'featuredImage' srcset.post sizes.post}}
+                              {{/if}}
+                              {{ lazyload "lazy" }}
+                              height="{{height}}"
+                              width="{{width}}"
+                              alt="{{alt}}">
+                        </a>
+                     {{/if}}
+                  {{/featuredImage}}
+               {{/if}}
 
-            {{#if @config.custom.feedReadMore}}
-               <ul class="actions special">
-                  <li>
-                     <a href="{{url}}" class="button">{{ translate 'post.readMore' }}</a>
-                  </li>
-               </ul>
-            {{/if}}
+               {{#if hasCustomExcerpt}}
+                  {{{ excerpt }}}
+               {{else}}
+                  <p>{{{ excerpt }}}</p>
+               {{/if}}
 
-         </article>
-      {{/each}}
-   </section>
+               {{#if @config.custom.feedReadMore}}
+                  <ul class="actions special">
+                     <li>
+                        <a href="{{url}}" class="button">{{ translate 'post.readMore' }}</a>
+                     </li>
+                  </ul>
+               {{/if}}
 
-   {{#if @pagination}}
-      <footer>
-         {{> pagination}}
-      </footer>
-   {{/if}}
+            </article>
+         {{/each}}
+      </section>
 
-</main>
+      {{#if @pagination}}
+         <footer>
+            {{> pagination}}
+         </footer>
+      {{/if}}
+
+   </main>
 </div>
 {{> footer}}
