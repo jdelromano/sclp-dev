@@ -1676,8 +1676,5 @@
     ],
     "tagTemplates": {
         "calendar": "tag template to display events"
-     },
-     "postTemplates": {
-        "calendar": "post template for calendar events"
      }
 }

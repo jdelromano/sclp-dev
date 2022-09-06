@@ -87,9 +87,11 @@
                   {{/if}}
                   {{#if @config.custom.socialWhatsapp}}
                      {{#getPost @config.custom.socialWhatsapp}}
+                      <li>
                         <a href="{{url}}" class="icon brands fa-whatsapp">
                            <span class="label">{{ translate 'socials.whatsapp' }}</span>
                         </a>
+                     </li>
                      {{/getPost}}
                   {{/if}}
             </ul>

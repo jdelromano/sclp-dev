@@ -2,12 +2,22 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "eecc533e59a6b98541ce94fe653bfcec"
+        "md5": "a4877129cbe35a5ab714f767dd6385a7"
     },
     {
         "path": "amp",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "amp/assemblea-ordinaria",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/assemblea-ordinaria/index.html",
+        "type": "file",
+        "md5": "80e2121c846d34cc0e3fdeafdbdaa53d"
     },
     {
         "path": "amp/autori",
@@ -22,7 +32,7 @@
     {
         "path": "/amp/autori/jose-del-romano/index.html",
         "type": "file",
-        "md5": "df40ccbf89fec89736b2e2c904e1a8b0"
+        "md5": "c8701287d91acb3cfb296cf77946e3bf"
     },
     {
         "path": "amp/campo-di-natale",
@@ -62,7 +72,7 @@
     {
         "path": "/amp/contatti/index.html",
         "type": "file",
-        "md5": "faf850bac33bf9f24b2a97fe5d0ee1a9"
+        "md5": "b7862a1d494880958ec3c32f7479b8b2"
     },
     {
         "path": "amp/corso-quadri",
@@ -72,7 +82,7 @@
     {
         "path": "/amp/corso-quadri/index.html",
         "type": "file",
-        "md5": "e1072603bb5a9ffe3a9cfd4c429c7933"
+        "md5": "0bdd7af79d40e2ba139141ec1626bf6f"
     },
     {
         "path": "amp/ginnastica-presciatoria",
@@ -82,7 +92,7 @@
     {
         "path": "/amp/ginnastica-presciatoria/index.html",
         "type": "file",
-        "md5": "3f493b9acfd14ce220ec32eff1391e48"
+        "md5": "b6a256606a1ce48a4731e1bc21586ace"
     },
     {
         "path": "/amp/index.html",
@@ -97,7 +107,7 @@
     {
         "path": "/amp/iscrizione/index.html",
         "type": "file",
-        "md5": "83badce4174ec9733571f7a9d40c364e"
+        "md5": "d168d320fe2e0c4c9e9a7819869b8575"
     },
     {
         "path": "amp/mercatino-dellusato",
@@ -107,7 +117,7 @@
     {
         "path": "/amp/mercatino-dellusato/index.html",
         "type": "file",
-        "md5": "dd988a8e7895eec15adf9252a2db0502"
+        "md5": "76a154ae5503f8c6f6f2b9fc379b952c"
     },
     {
         "path": "amp/sponsor",
@@ -117,7 +127,7 @@
     {
         "path": "/amp/sponsor/index.html",
         "type": "file",
-        "md5": "e8192321b978f53ba8bc58d41992fa49"
+        "md5": "ccdc3a8e3d28d565870cde6edfc1d79c"
     },
     {
         "path": "amp/statuti",
@@ -142,7 +152,7 @@
     {
         "path": "/amp/tags/calendario/index.html",
         "type": "file",
-        "md5": "e581c057a4011958f3696c52753a87ec"
+        "md5": "411f5ec6baa4fd58e04bda8de6ffd971"
     },
     {
         "path": "amp/uscite-del-sabato",
@@ -162,7 +172,7 @@
     {
         "path": "/amp/valutazionelivello/index.html",
         "type": "file",
-        "md5": "b81ae6c7abda822110e96acd1b542fc2"
+        "md5": "8b74f0e1e74189c7b0c3034794b861e9"
     },
     {
         "path": "amp/whatsapp",
@@ -185,6 +195,16 @@
         "md5": "81c2bac23f8c5fbfbb3df53ff7368152"
     },
     {
+        "path": "assemblea-ordinaria",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assemblea-ordinaria/index.html",
+        "type": "file",
+        "md5": "641ad124cd214404f80ff7e994281e34"
+    },
+    {
         "path": "assets",
         "type": "directory",
         "md5": false
@@ -200,14 +220,9 @@
         "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
     },
     {
-        "path": "/assets/css/fontawesome-all.min.css",
-        "type": "file",
-        "md5": "dbf9d822cefe851ba6f66e1ad57e8987"
-    },
-    {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "6948a0f12cf0d51dacef895609eab022"
+        "md5": "5d55bea6ee6710a7ac9f23758b1db32c"
     },
     {
         "path": "/assets/css/noscript.css",
@@ -222,7 +237,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "9adf43d5b98bbe8c5e4f71c42a14cb42"
+        "md5": "fef06234f79cd0860643c1458ba2be76"
     },
     {
         "path": "assets/dynamic",
@@ -315,86 +330,6 @@
         "md5": "0bb1f41e2e459d23628833c37d8532f0"
     },
     {
-        "path": "assets/webfonts",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/webfonts/fa-brands-400.eot",
-        "type": "file",
-        "md5": "b05644a0e6970debcdfc0fd82f23aa08"
-    },
-    {
-        "path": "/assets/webfonts/fa-brands-400.svg",
-        "type": "file",
-        "md5": "073c2f3ce60eaf69cc2767ef3d989078"
-    },
-    {
-        "path": "/assets/webfonts/fa-brands-400.ttf",
-        "type": "file",
-        "md5": "6c9fcd0ca0dde442dde738b116f74915"
-    },
-    {
-        "path": "/assets/webfonts/fa-brands-400.woff",
-        "type": "file",
-        "md5": "ebd4eb0cc1ab37ddb5b130cd73d3966c"
-    },
-    {
-        "path": "/assets/webfonts/fa-brands-400.woff2",
-        "type": "file",
-        "md5": "24e1b50f4d24edc02f5378718d8edebc"
-    },
-    {
-        "path": "/assets/webfonts/fa-regular-400.eot",
-        "type": "file",
-        "md5": "75c4b8ad5135473892a937ac9e096416"
-    },
-    {
-        "path": "/assets/webfonts/fa-regular-400.svg",
-        "type": "file",
-        "md5": "8fdea4e89ac405d9f8db327adb331d8d"
-    },
-    {
-        "path": "/assets/webfonts/fa-regular-400.ttf",
-        "type": "file",
-        "md5": "aee02d2631ce1bf0b15f315fdbc8a15b"
-    },
-    {
-        "path": "/assets/webfonts/fa-regular-400.woff",
-        "type": "file",
-        "md5": "d09f7b6d6c01f76269ca2c3b1c824035"
-    },
-    {
-        "path": "/assets/webfonts/fa-regular-400.woff2",
-        "type": "file",
-        "md5": "779bf2bfee7971682f99395d70dbc8e7"
-    },
-    {
-        "path": "/assets/webfonts/fa-solid-900.eot",
-        "type": "file",
-        "md5": "7afc371b7bc17aba155a585baef72b50"
-    },
-    {
-        "path": "/assets/webfonts/fa-solid-900.svg",
-        "type": "file",
-        "md5": "b557f56e367e59344ca95f9d1fb44352"
-    },
-    {
-        "path": "/assets/webfonts/fa-solid-900.ttf",
-        "type": "file",
-        "md5": "ecbca7b92b743d033cfedb359261ece9"
-    },
-    {
-        "path": "/assets/webfonts/fa-solid-900.woff",
-        "type": "file",
-        "md5": "63c029bd930de41bdad297c6043894c4"
-    },
-    {
-        "path": "/assets/webfonts/fa-solid-900.woff2",
-        "type": "file",
-        "md5": "12e8fa3cf9b326918dec547d10fe7f34"
-    },
-    {
         "path": "autori",
         "type": "directory",
         "md5": false
@@ -407,7 +342,7 @@
     {
         "path": "/autori/jose-del-romano/index.html",
         "type": "file",
-        "md5": "12e995c1ff8714991de324e2650b0105"
+        "md5": "a74a7f21077e7d46ea335963744071b5"
     },
     {
         "path": "campo-di-natale",
@@ -417,7 +352,7 @@
     {
         "path": "/campo-di-natale/index.html",
         "type": "file",
-        "md5": "9cc7c77aa25c584aea7929b9dee509bc"
+        "md5": "7bcf719dd054b340608a1b8d9d352904"
     },
     {
         "path": "cg",
@@ -427,7 +362,7 @@
     {
         "path": "/cg/index.html",
         "type": "file",
-        "md5": "1c5ca6721896d41ba1d27353b1b41071"
+        "md5": "2ab9982bf5c940ff7db8094b255ae687"
     },
     {
         "path": "comitato",
@@ -437,7 +372,7 @@
     {
         "path": "/comitato/index.html",
         "type": "file",
-        "md5": "96cf389c91cabb9870bf5421807d39b5"
+        "md5": "570f3af0b7e1682f76661703bb0c0f70"
     },
     {
         "path": "contatti",
@@ -447,7 +382,7 @@
     {
         "path": "/contatti/index.html",
         "type": "file",
-        "md5": "6573c0b12be9207a57f14259538b9ed4"
+        "md5": "cd03b81c52e70b62a4c87d0a29e0e573"
     },
     {
         "path": "corso-quadri",
@@ -457,7 +392,7 @@
     {
         "path": "/corso-quadri/index.html",
         "type": "file",
-        "md5": "019a71d7453541808015c9dbee70ee63"
+        "md5": "f33a38bc65c3f236b24ee32bbe5ca208"
     },
     {
         "path": "ginnastica-presciatoria",
@@ -467,12 +402,12 @@
     {
         "path": "/ginnastica-presciatoria/index.html",
         "type": "file",
-        "md5": "c83727e3e437b07372153dcbbc795ab5"
+        "md5": "f54fa4ce5e9796716063c9212da4bd24"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "01261f1388dd67902ea2232882b635ff"
+        "md5": "fabfd793187399bc88b72289bc958924"
     },
     {
         "path": "iscrizione",
@@ -482,7 +417,7 @@
     {
         "path": "/iscrizione/index.html",
         "type": "file",
-        "md5": "3cbea4716bbf88af87c5dd48bb873ba4"
+        "md5": "bb41f80f64f4815436a4be99fba89e77"
     },
     {
         "path": "media",
@@ -530,11 +465,6 @@
         "md5": false
     },
     {
-        "path": "/media/posts/2/bieffe-2.jpg",
-        "type": "file",
-        "md5": "ff29fde62fd110786e2cc1928f320877"
-    },
-    {
         "path": "/media/posts/2/ennioferrari.png",
         "type": "file",
         "md5": "265721f277303761da5cf6d5139967a6"
@@ -545,44 +475,9 @@
         "md5": "77e186532e4fa3f2656df729c4113286"
     },
     {
-        "path": "/media/posts/2/grottosacchi-2.png",
-        "type": "file",
-        "md5": "4b03e1e8e2127234fd0df65ccd24fdbe"
-    },
-    {
-        "path": "/media/posts/2/promotionaltools-2.png",
-        "type": "file",
-        "md5": "1592bd0962b0b78bf58edd1bbf6a1b1b"
-    },
-    {
-        "path": "/media/posts/2/rigassipinchetti-2.png",
-        "type": "file",
-        "md5": "4a0d350a296f26c21f41dbc64e521cae"
-    },
-    {
-        "path": "/media/posts/2/savioni-2.jpg",
-        "type": "file",
-        "md5": "321368b8448ab6f0e162c35ee099e716"
-    },
-    {
         "path": "/media/posts/2/scuter-2.png",
         "type": "file",
         "md5": "a9e1f2b113bdabb0f771f152144fc1c0"
-    },
-    {
-        "path": "/media/posts/2/sika-2.png",
-        "type": "file",
-        "md5": "c73ab715b7c00bd43aa9a5bd202e7505"
-    },
-    {
-        "path": "/media/posts/2/spaeter-2.png",
-        "type": "file",
-        "md5": "8c5e5d8888a96a61f9b4525af2b15d32"
-    },
-    {
-        "path": "/media/posts/2/zeissneutra.png",
-        "type": "file",
-        "md5": "0a1765d35099f0505920654da0e08536"
     },
     {
         "path": "media/posts/4",
@@ -787,7 +682,7 @@
     {
         "path": "/mercatino-dellusato/index.html",
         "type": "file",
-        "md5": "5abda002a61df30167146f8a2e4e7aad"
+        "md5": "3dc6ee6471d7d4edf6e6b0fd065090b5"
     },
     {
         "path": "robots.txt",
@@ -802,7 +697,7 @@
     {
         "path": "/sponsor/index.html",
         "type": "file",
-        "md5": "2a9a30b2d83ddcea7af7c80ab5cd42db"
+        "md5": "c7bc85909ddf18e421844fd373decca0"
     },
     {
         "path": "statuti",
@@ -812,7 +707,7 @@
     {
         "path": "/statuti/index.html",
         "type": "file",
-        "md5": "1c9878563a8a4fa37bfc9aadd3e698c1"
+        "md5": "d61663fdaf02855a98a0c6f8a1bf3b2d"
     },
     {
         "path": "tags",
@@ -827,12 +722,12 @@
     {
         "path": "/tags/calendario/index.html",
         "type": "file",
-        "md5": "767c8edcddba10ab091bc6e9f6cdfaf3"
+        "md5": "46e95f9f6bd00f6ae097d6798d4eaa89"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "34c106d0f337552e4d94b6906828b737"
+        "md5": "f473a427d7abd5c5619cc91f2b25ee4c"
     },
     {
         "path": "uscite-del-sabato",
@@ -842,7 +737,7 @@
     {
         "path": "/uscite-del-sabato/index.html",
         "type": "file",
-        "md5": "d0dfdb4bf2158ad70f40f499812169d0"
+        "md5": "6006ba53bbe53e87a71558c641912d8e"
     },
     {
         "path": "valutazionelivello",
@@ -852,7 +747,7 @@
     {
         "path": "/valutazionelivello/index.html",
         "type": "file",
-        "md5": "b27be808051d334da91c94335ebd6bb9"
+        "md5": "e83332b657eba06d8466bec49a3975db"
     },
     {
         "path": "whatsapp",
@@ -862,7 +757,7 @@
     {
         "path": "/whatsapp/index.html",
         "type": "file",
-        "md5": "0b9048cba93f5557ec65f48199115e3e"
+        "md5": "c9af79f45aaaddeddf71ef550f70bf5c"
     },
     {
         "path": "work-in-progress",
@@ -872,6 +767,6 @@
     {
         "path": "/work-in-progress/index.html",
         "type": "file",
-        "md5": "79abc65b8872ece32ed57dda1566f718"
+        "md5": "db24e66e4a5442413b68526f13f0c7e4"
     }
 ]
