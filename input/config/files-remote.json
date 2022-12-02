@@ -42,7 +42,7 @@
     {
         "path": "/amp/autori/jose-del-romano/index.html",
         "type": "file",
-        "md5": "df40ccbf89fec89736b2e2c904e1a8b0"
+        "md5": "96e47145ef05732bb40332604a611c12"
     },
     {
         "path": "amp/campo-di-natale",
@@ -107,7 +107,7 @@
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "0bb6d9c0da69b5c9a2f9f032a5c20956"
+        "md5": "f4dffa710b254f0ff99a2f65758d397b"
     },
     {
         "path": "amp/iscrizione",
@@ -118,16 +118,6 @@
         "path": "/amp/iscrizione/index.html",
         "type": "file",
         "md5": "26b6d761afa43367e2f860ff436a5162"
-    },
-    {
-        "path": "amp/iscrizioni-al-campo-di-natale-prolungate",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/iscrizioni-al-campo-di-natale-prolungate/index.html",
-        "type": "file",
-        "md5": "3a90a931885058cb6437966812d9e8d9"
     },
     {
         "path": "amp/juskila-2023",
@@ -148,16 +138,6 @@
         "path": "/amp/mercatino-dellusato/index.html",
         "type": "file",
         "md5": "cfbe2f298419c7e00f830d76a1aebfa9"
-    },
-    {
-        "path": "amp/mercatino-di-natale-a-cresciano",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/mercatino-di-natale-a-cresciano/index.html",
-        "type": "file",
-        "md5": "173eaeecef56a3e255341a81fe881a19"
     },
     {
         "path": "amp/sponsor",
@@ -192,7 +172,7 @@
     {
         "path": "/amp/tags/calendario/index.html",
         "type": "file",
-        "md5": "f1922f48c3353c984c68be1bc05c21e8"
+        "md5": "1c3ceada8d95dcc98cad9a3df6345979"
     },
     {
         "path": "amp/uscite-del-sabato",
@@ -467,7 +447,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "200d41eba306a01784cb3c724815eb17"
+        "md5": "92a1f458cb8ad9773409b23fea1d01e9"
     },
     {
         "path": "iscrizione",
@@ -478,16 +458,6 @@
         "path": "/iscrizione/index.html",
         "type": "file",
         "md5": "e1cb86c589dfd06292e49c70a0a20329"
-    },
-    {
-        "path": "iscrizioni-al-campo-di-natale-prolungate",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/iscrizioni-al-campo-di-natale-prolungate/index.html",
-        "type": "file",
-        "md5": "62c072084c0253abbd348ec926dddb1d"
     },
     {
         "path": "juskila-2023",
@@ -513,6 +483,11 @@
         "path": "/media/files/AssembleaSCLP_2022.pdf",
         "type": "file",
         "md5": "2d16912045a6a5fd9c0efcdb28b3fefd"
+    },
+    {
+        "path": "/media/files/banana.png",
+        "type": "file",
+        "md5": "58428636a163cc1384c718ea98348833"
     },
     {
         "path": "/media/files/brochure-22-23-web.pdf",
@@ -810,16 +785,6 @@
         "md5": "bce4b86b16b91fe6729c0c965d605fbd"
     },
     {
-        "path": "mercatino-di-natale-a-cresciano",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/mercatino-di-natale-a-cresciano/index.html",
-        "type": "file",
-        "md5": "4947fa815520aad22af0ef885bcb6aa9"
-    },
-    {
         "path": "robots.txt",
         "type": "file",
         "md5": "50d8a018e8ae96732c8a2ba663c61d4e"
@@ -857,7 +822,7 @@
     {
         "path": "/tags/calendario/index.html",
         "type": "file",
-        "md5": "0b5e0c2e6a6d5e72eabacce60dddb6d8"
+        "md5": "87c9020e49a4b411e9e511f558e92943"
     },
     {
         "path": "/tags/index.html",
