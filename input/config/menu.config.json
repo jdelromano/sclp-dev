@@ -39,6 +39,18 @@
                         "items": []
                     },
                     {
+                        "id": 1664261548755,
+                        "label": "Insegnanti",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 23,
+                        "cssClass": "",
+                        "isHidden": true,
+                        "items": []
+                    },
+                    {
                         "id": 1660056625903,
                         "label": "Statuti",
                         "title": "Statuti",

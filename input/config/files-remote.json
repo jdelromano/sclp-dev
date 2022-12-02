@@ -2,12 +2,22 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "a4877129cbe35a5ab714f767dd6385a7"
+        "md5": "95da7c638e5bf4fa23da35513c8103c8"
     },
     {
         "path": "amp",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "amp/apertura-iscrizioni-2022-2023",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/apertura-iscrizioni-2022-2023/index.html",
+        "type": "file",
+        "md5": "e0f75dd161ce926dd847529b587f443d"
     },
     {
         "path": "amp/assemblea-ordinaria",
@@ -17,7 +27,7 @@
     {
         "path": "/amp/assemblea-ordinaria/index.html",
         "type": "file",
-        "md5": "80e2121c846d34cc0e3fdeafdbdaa53d"
+        "md5": "38e2caa4cb3211eeed823b9752e1e9e4"
     },
     {
         "path": "amp/autori",
@@ -32,7 +42,7 @@
     {
         "path": "/amp/autori/jose-del-romano/index.html",
         "type": "file",
-        "md5": "c8701287d91acb3cfb296cf77946e3bf"
+        "md5": "df40ccbf89fec89736b2e2c904e1a8b0"
     },
     {
         "path": "amp/campo-di-natale",
@@ -42,7 +52,7 @@
     {
         "path": "/amp/campo-di-natale/index.html",
         "type": "file",
-        "md5": "c7449c7be2ffd022da0f910fb27a2dbf"
+        "md5": "cc1c6b4663f32c3c3a751cb3ea0acd24"
     },
     {
         "path": "amp/cg",
@@ -72,7 +82,7 @@
     {
         "path": "/amp/contatti/index.html",
         "type": "file",
-        "md5": "b7862a1d494880958ec3c32f7479b8b2"
+        "md5": "c14a2def7b927e6b50d08c068c6d5c78"
     },
     {
         "path": "amp/corso-quadri",
@@ -82,7 +92,7 @@
     {
         "path": "/amp/corso-quadri/index.html",
         "type": "file",
-        "md5": "0bdd7af79d40e2ba139141ec1626bf6f"
+        "md5": "9718b6aa087917925778ef5893375bad"
     },
     {
         "path": "amp/ginnastica-presciatoria",
@@ -92,12 +102,12 @@
     {
         "path": "/amp/ginnastica-presciatoria/index.html",
         "type": "file",
-        "md5": "b6a256606a1ce48a4731e1bc21586ace"
+        "md5": "127ec0f8d01212175cc4d43cd5a3f26d"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "a483557015691c68cb402bdd87350a01"
+        "md5": "0bb6d9c0da69b5c9a2f9f032a5c20956"
     },
     {
         "path": "amp/iscrizione",
@@ -107,7 +117,27 @@
     {
         "path": "/amp/iscrizione/index.html",
         "type": "file",
-        "md5": "d168d320fe2e0c4c9e9a7819869b8575"
+        "md5": "26b6d761afa43367e2f860ff436a5162"
+    },
+    {
+        "path": "amp/iscrizioni-al-campo-di-natale-prolungate",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/iscrizioni-al-campo-di-natale-prolungate/index.html",
+        "type": "file",
+        "md5": "3a90a931885058cb6437966812d9e8d9"
+    },
+    {
+        "path": "amp/juskila-2023",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/juskila-2023/index.html",
+        "type": "file",
+        "md5": "1ceb6934aaa85a78dbbf4a92d181a20f"
     },
     {
         "path": "amp/mercatino-dellusato",
@@ -117,7 +147,17 @@
     {
         "path": "/amp/mercatino-dellusato/index.html",
         "type": "file",
-        "md5": "76a154ae5503f8c6f6f2b9fc379b952c"
+        "md5": "cfbe2f298419c7e00f830d76a1aebfa9"
+    },
+    {
+        "path": "amp/mercatino-di-natale-a-cresciano",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/mercatino-di-natale-a-cresciano/index.html",
+        "type": "file",
+        "md5": "173eaeecef56a3e255341a81fe881a19"
     },
     {
         "path": "amp/sponsor",
@@ -152,7 +192,7 @@
     {
         "path": "/amp/tags/calendario/index.html",
         "type": "file",
-        "md5": "411f5ec6baa4fd58e04bda8de6ffd971"
+        "md5": "f1922f48c3353c984c68be1bc05c21e8"
     },
     {
         "path": "amp/uscite-del-sabato",
@@ -162,7 +202,7 @@
     {
         "path": "/amp/uscite-del-sabato/index.html",
         "type": "file",
-        "md5": "9934ef8f0a8438f6f62e2978eb68ab65"
+        "md5": "76bec258ce600b9292c8ba81b401faae"
     },
     {
         "path": "amp/valutazionelivello",
@@ -172,7 +212,17 @@
     {
         "path": "/amp/valutazionelivello/index.html",
         "type": "file",
-        "md5": "8b74f0e1e74189c7b0c3034794b861e9"
+        "md5": "b7395170c00d854ca868acc498591650"
+    },
+    {
+        "path": "amp/week-end",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/week-end/index.html",
+        "type": "file",
+        "md5": "e2a0238286b625bdd717578970b6a2cc"
     },
     {
         "path": "amp/whatsapp",
@@ -185,14 +235,14 @@
         "md5": "1397e0009ffcc97963c95c0f4b612d1e"
     },
     {
-        "path": "amp/work-in-progress",
+        "path": "apertura-iscrizioni-2022-2023",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/work-in-progress/index.html",
+        "path": "/apertura-iscrizioni-2022-2023/index.html",
         "type": "file",
-        "md5": "81c2bac23f8c5fbfbb3df53ff7368152"
+        "md5": "ed7627f982f6425b91c18d2209d6373f"
     },
     {
         "path": "assemblea-ordinaria",
@@ -202,7 +252,7 @@
     {
         "path": "/assemblea-ordinaria/index.html",
         "type": "file",
-        "md5": "641ad124cd214404f80ff7e994281e34"
+        "md5": "87fcac40595d2cadbac68ab0eb30e2c5"
     },
     {
         "path": "assets",
@@ -220,9 +270,14 @@
         "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
     },
     {
+        "path": "/assets/css/main-new.css",
+        "type": "file",
+        "md5": "d12d73e53febc3b0819853251577b352"
+    },
+    {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "5d55bea6ee6710a7ac9f23758b1db32c"
+        "md5": "bee41daff5f7b064b7b1f4f752400d51"
     },
     {
         "path": "/assets/css/noscript.css",
@@ -235,9 +290,14 @@
         "md5": "357f87f4e9502a5318d89e8e76e0a344"
     },
     {
+        "path": "/assets/css/style-new.css",
+        "type": "file",
+        "md5": "f4d5873fd7e1fff10c312627b475a9c6"
+    },
+    {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "fef06234f79cd0860643c1458ba2be76"
+        "md5": "601b0b17d7ee69420902a0729779c00e"
     },
     {
         "path": "assets/dynamic",
@@ -342,7 +402,7 @@
     {
         "path": "/autori/jose-del-romano/index.html",
         "type": "file",
-        "md5": "a74a7f21077e7d46ea335963744071b5"
+        "md5": "093fa13cb23604978e9d2ed832250739"
     },
     {
         "path": "campo-di-natale",
@@ -352,7 +412,7 @@
     {
         "path": "/campo-di-natale/index.html",
         "type": "file",
-        "md5": "7bcf719dd054b340608a1b8d9d352904"
+        "md5": "066be07feab2f6c2d009ef01be6f8e08"
     },
     {
         "path": "cg",
@@ -362,7 +422,7 @@
     {
         "path": "/cg/index.html",
         "type": "file",
-        "md5": "2ab9982bf5c940ff7db8094b255ae687"
+        "md5": "201a13d57589b9ef08a423abe8e360ec"
     },
     {
         "path": "comitato",
@@ -372,7 +432,7 @@
     {
         "path": "/comitato/index.html",
         "type": "file",
-        "md5": "570f3af0b7e1682f76661703bb0c0f70"
+        "md5": "c7ed2c54f0acabc870dc14e5aae58e3a"
     },
     {
         "path": "contatti",
@@ -382,7 +442,7 @@
     {
         "path": "/contatti/index.html",
         "type": "file",
-        "md5": "cd03b81c52e70b62a4c87d0a29e0e573"
+        "md5": "c10ede533493614a5a0722f36158382e"
     },
     {
         "path": "corso-quadri",
@@ -392,7 +452,7 @@
     {
         "path": "/corso-quadri/index.html",
         "type": "file",
-        "md5": "f33a38bc65c3f236b24ee32bbe5ca208"
+        "md5": "385001f24762ee0014e633c73261844f"
     },
     {
         "path": "ginnastica-presciatoria",
@@ -402,12 +462,12 @@
     {
         "path": "/ginnastica-presciatoria/index.html",
         "type": "file",
-        "md5": "f54fa4ce5e9796716063c9212da4bd24"
+        "md5": "1417c91f99b400840fd21a3230b5682f"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "fabfd793187399bc88b72289bc958924"
+        "md5": "200d41eba306a01784cb3c724815eb17"
     },
     {
         "path": "iscrizione",
@@ -417,7 +477,27 @@
     {
         "path": "/iscrizione/index.html",
         "type": "file",
-        "md5": "bb41f80f64f4815436a4be99fba89e77"
+        "md5": "e1cb86c589dfd06292e49c70a0a20329"
+    },
+    {
+        "path": "iscrizioni-al-campo-di-natale-prolungate",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/iscrizioni-al-campo-di-natale-prolungate/index.html",
+        "type": "file",
+        "md5": "62c072084c0253abbd348ec926dddb1d"
+    },
+    {
+        "path": "juskila-2023",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/juskila-2023/index.html",
+        "type": "file",
+        "md5": "8c97cd0cff62eb0a79ad1d05c65b74e9"
     },
     {
         "path": "media",
@@ -430,6 +510,16 @@
         "md5": false
     },
     {
+        "path": "/media/files/AssembleaSCLP_2022.pdf",
+        "type": "file",
+        "md5": "2d16912045a6a5fd9c0efcdb28b3fefd"
+    },
+    {
+        "path": "/media/files/brochure-22-23-web.pdf",
+        "type": "file",
+        "md5": "b333453f7692a685ed94c8e3387082b0"
+    },
+    {
         "path": "/media/files/ennioferrari.png",
         "type": "file",
         "md5": "265721f277303761da5cf6d5139967a6"
@@ -438,6 +528,11 @@
         "path": "/media/files/gecorecycling.png",
         "type": "file",
         "md5": "77e186532e4fa3f2656df729c4113286"
+    },
+    {
+        "path": "/media/files/polizza-versamento-sclp.png",
+        "type": "file",
+        "md5": "d7f0a8d3979c7643c446aa036143f13e"
     },
     {
         "path": "/media/files/swiss-ski_logo.png",
@@ -450,14 +545,24 @@
         "md5": false
     },
     {
-        "path": "media/posts/1",
+        "path": "media/posts/13",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/1/Work-in-progress-1024x603.png",
+        "path": "/media/posts/13/mercatino.jpg",
         "type": "file",
-        "md5": "3449565f8b0dd80009031e02a26ce2ea"
+        "md5": "de7ef51b0737bf85702b1b55b8869300"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/chamonix.jpg",
+        "type": "file",
+        "md5": "d100a84897ecd462b5472814a4b49c74"
     },
     {
         "path": "media/posts/2",
@@ -478,6 +583,26 @@
         "path": "/media/posts/2/scuter-2.png",
         "type": "file",
         "md5": "a9e1f2b113bdabb0f771f152144fc1c0"
+    },
+    {
+        "path": "media/posts/20",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/20/juskila.jpg",
+        "type": "file",
+        "md5": "20195569f406cc56e5adb93b70c2ee50"
+    },
+    {
+        "path": "media/posts/21",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/Stagione22-23.jpg",
+        "type": "file",
+        "md5": "15a901aa54dbeba3bd7b337e2507344d"
     },
     {
         "path": "media/posts/4",
@@ -682,7 +807,17 @@
     {
         "path": "/mercatino-dellusato/index.html",
         "type": "file",
-        "md5": "3dc6ee6471d7d4edf6e6b0fd065090b5"
+        "md5": "bce4b86b16b91fe6729c0c965d605fbd"
+    },
+    {
+        "path": "mercatino-di-natale-a-cresciano",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mercatino-di-natale-a-cresciano/index.html",
+        "type": "file",
+        "md5": "4947fa815520aad22af0ef885bcb6aa9"
     },
     {
         "path": "robots.txt",
@@ -697,7 +832,7 @@
     {
         "path": "/sponsor/index.html",
         "type": "file",
-        "md5": "c7bc85909ddf18e421844fd373decca0"
+        "md5": "2b7e40921a3e6594ecdba9fab8398fb5"
     },
     {
         "path": "statuti",
@@ -707,7 +842,7 @@
     {
         "path": "/statuti/index.html",
         "type": "file",
-        "md5": "d61663fdaf02855a98a0c6f8a1bf3b2d"
+        "md5": "becdf828773214c7eaadb364b222fa5e"
     },
     {
         "path": "tags",
@@ -722,12 +857,12 @@
     {
         "path": "/tags/calendario/index.html",
         "type": "file",
-        "md5": "46e95f9f6bd00f6ae097d6798d4eaa89"
+        "md5": "0b5e0c2e6a6d5e72eabacce60dddb6d8"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "f473a427d7abd5c5619cc91f2b25ee4c"
+        "md5": "146448aa6a10b6c9db299e48f5a13fa3"
     },
     {
         "path": "uscite-del-sabato",
@@ -737,7 +872,7 @@
     {
         "path": "/uscite-del-sabato/index.html",
         "type": "file",
-        "md5": "6006ba53bbe53e87a71558c641912d8e"
+        "md5": "923e27349f483d66daceea1ed9015ef0"
     },
     {
         "path": "valutazionelivello",
@@ -747,7 +882,17 @@
     {
         "path": "/valutazionelivello/index.html",
         "type": "file",
-        "md5": "e83332b657eba06d8466bec49a3975db"
+        "md5": "9f0f6b1127edf7b8f2c9f971840e93df"
+    },
+    {
+        "path": "week-end",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/week-end/index.html",
+        "type": "file",
+        "md5": "b4c179e1933fb05c10052e15a172ed6f"
     },
     {
         "path": "whatsapp",
@@ -757,16 +902,6 @@
     {
         "path": "/whatsapp/index.html",
         "type": "file",
-        "md5": "c9af79f45aaaddeddf71ef550f70bf5c"
-    },
-    {
-        "path": "work-in-progress",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/work-in-progress/index.html",
-        "type": "file",
-        "md5": "db24e66e4a5442413b68526f13f0c7e4"
+        "md5": "92f95f1d8d181ace0a5cdc09565c2d36"
     }
 ]
