@@ -17,7 +17,7 @@
     {
         "path": "/amp/apertura-iscrizioni-2022-2023/index.html",
         "type": "file",
-        "md5": "e0f75dd161ce926dd847529b587f443d"
+        "md5": "2be5e239958f8db0789ba5ff5a1f32f0"
     },
     {
         "path": "amp/assemblea-ordinaria",
@@ -42,7 +42,17 @@
     {
         "path": "/amp/autori/jose-del-romano/index.html",
         "type": "file",
-        "md5": "96e47145ef05732bb40332604a611c12"
+        "md5": "01ddd48b02285998ab675f23714e91b3"
+    },
+    {
+        "path": "amp/buone-feste",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/buone-feste/index.html",
+        "type": "file",
+        "md5": "28a9353c432820bc85cbe934468facbc"
     },
     {
         "path": "amp/campo-di-natale",
@@ -52,7 +62,7 @@
     {
         "path": "/amp/campo-di-natale/index.html",
         "type": "file",
-        "md5": "cc1c6b4663f32c3c3a751cb3ea0acd24"
+        "md5": "48a45e9f9f58384da7922111671806a6"
     },
     {
         "path": "amp/cg",
@@ -92,7 +102,7 @@
     {
         "path": "/amp/corso-quadri/index.html",
         "type": "file",
-        "md5": "9718b6aa087917925778ef5893375bad"
+        "md5": "aac981fed704194d9c6fc6f197c2d78b"
     },
     {
         "path": "amp/ginnastica-presciatoria",
@@ -107,7 +117,7 @@
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "f4dffa710b254f0ff99a2f65758d397b"
+        "md5": "527b5581e6a8a5885215dceb836825e8"
     },
     {
         "path": "amp/iscrizione",
@@ -117,7 +127,7 @@
     {
         "path": "/amp/iscrizione/index.html",
         "type": "file",
-        "md5": "26b6d761afa43367e2f860ff436a5162"
+        "md5": "ecce8e70232fa25be8fe931ff60a157c"
     },
     {
         "path": "amp/juskila-2023",
@@ -147,7 +157,7 @@
     {
         "path": "/amp/sponsor/index.html",
         "type": "file",
-        "md5": "ccdc3a8e3d28d565870cde6edfc1d79c"
+        "md5": "11b2846fb6252791b3ce41716bfa52da"
     },
     {
         "path": "amp/statuti",
@@ -172,17 +182,82 @@
     {
         "path": "/amp/tags/calendario/index.html",
         "type": "file",
-        "md5": "1c3ceada8d95dcc98cad9a3df6345979"
+        "md5": "44a7d726c5e6565a2742e4b1d12ff0bd"
     },
     {
-        "path": "amp/uscite-del-sabato",
+        "path": "amp/tags/calendario/page",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/uscite-del-sabato/index.html",
+        "path": "amp/tags/calendario/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/tags/calendario/page/2/index.html",
         "type": "file",
-        "md5": "76bec258ce600b9292c8ba81b401faae"
+        "md5": "7805ec92a829bc02607aacc5754c0bdf"
+    },
+    {
+        "path": "amp/uscita-del-17-dicembre-2022",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/uscita-del-17-dicembre-2022/index.html",
+        "type": "file",
+        "md5": "853c7c23b33232ec806fb1ffa3c83c52"
+    },
+    {
+        "path": "amp/uscite-del-sabato-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/uscite-del-sabato-2/index.html",
+        "type": "file",
+        "md5": "1a95a27beb3695bf608568cd6412073a"
+    },
+    {
+        "path": "amp/uscite-del-sabato-3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/uscite-del-sabato-3/index.html",
+        "type": "file",
+        "md5": "c52d9325aca57f11ab6bebc1c7142db6"
+    },
+    {
+        "path": "amp/uscite-del-sabato-4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/uscite-del-sabato-4/index.html",
+        "type": "file",
+        "md5": "7c20f7970f58caa7490a1cf6a3d5f085"
+    },
+    {
+        "path": "amp/uscite-del-sabato-5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/uscite-del-sabato-5/index.html",
+        "type": "file",
+        "md5": "daba4ed6c7283731515fdba80e176aa5"
+    },
+    {
+        "path": "amp/uscite-del-sabato-6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/uscite-del-sabato-6/index.html",
+        "type": "file",
+        "md5": "a7e7fef038894f7a1a43ee4d8c5ddd93"
     },
     {
         "path": "amp/valutazionelivello",
@@ -202,7 +277,7 @@
     {
         "path": "/amp/week-end/index.html",
         "type": "file",
-        "md5": "e2a0238286b625bdd717578970b6a2cc"
+        "md5": "868e55bc40a2d016906f36bde5c114aa"
     },
     {
         "path": "amp/whatsapp",
@@ -212,7 +287,7 @@
     {
         "path": "/amp/whatsapp/index.html",
         "type": "file",
-        "md5": "1397e0009ffcc97963c95c0f4b612d1e"
+        "md5": "926608841f0e083ecc89f5467ccfb3fc"
     },
     {
         "path": "apertura-iscrizioni-2022-2023",
@@ -222,7 +297,7 @@
     {
         "path": "/apertura-iscrizioni-2022-2023/index.html",
         "type": "file",
-        "md5": "ed7627f982f6425b91c18d2209d6373f"
+        "md5": "d6742b737190a5be25c68631f12a4358"
     },
     {
         "path": "assemblea-ordinaria",
@@ -385,6 +460,16 @@
         "md5": "093fa13cb23604978e9d2ed832250739"
     },
     {
+        "path": "buone-feste",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/buone-feste/index.html",
+        "type": "file",
+        "md5": "a6789720cc5f9f8d021db7657eece859"
+    },
+    {
         "path": "campo-di-natale",
         "type": "directory",
         "md5": false
@@ -392,7 +477,7 @@
     {
         "path": "/campo-di-natale/index.html",
         "type": "file",
-        "md5": "066be07feab2f6c2d009ef01be6f8e08"
+        "md5": "0b957cc132520ebecf965ea53ef5f496"
     },
     {
         "path": "cg",
@@ -432,7 +517,7 @@
     {
         "path": "/corso-quadri/index.html",
         "type": "file",
-        "md5": "385001f24762ee0014e633c73261844f"
+        "md5": "86c339336f232019d7c8f5b7fe603418"
     },
     {
         "path": "ginnastica-presciatoria",
@@ -447,7 +532,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "92a1f458cb8ad9773409b23fea1d01e9"
+        "md5": "7a683d169a7ae341eabe19d4e7f7c430"
     },
     {
         "path": "iscrizione",
@@ -457,7 +542,7 @@
     {
         "path": "/iscrizione/index.html",
         "type": "file",
-        "md5": "e1cb86c589dfd06292e49c70a0a20329"
+        "md5": "0be253b0a1e8f152317d8e09dd6abdf8"
     },
     {
         "path": "juskila-2023",
@@ -797,7 +882,7 @@
     {
         "path": "/sponsor/index.html",
         "type": "file",
-        "md5": "2b7e40921a3e6594ecdba9fab8398fb5"
+        "md5": "c00684c0e40e3d8442de2e416e820eda"
     },
     {
         "path": "statuti",
@@ -822,7 +907,22 @@
     {
         "path": "/tags/calendario/index.html",
         "type": "file",
-        "md5": "87c9020e49a4b411e9e511f558e92943"
+        "md5": "4009b00581e20d7a8c0b450b92ce55e6"
+    },
+    {
+        "path": "tags/calendario/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/calendario/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/calendario/page/2/index.html",
+        "type": "file",
+        "md5": "ffc30a265552c94e814ec4bbc0a70a31"
     },
     {
         "path": "/tags/index.html",
@@ -830,14 +930,64 @@
         "md5": "146448aa6a10b6c9db299e48f5a13fa3"
     },
     {
-        "path": "uscite-del-sabato",
+        "path": "uscita-del-17-dicembre-2022",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/uscite-del-sabato/index.html",
+        "path": "/uscita-del-17-dicembre-2022/index.html",
         "type": "file",
-        "md5": "923e27349f483d66daceea1ed9015ef0"
+        "md5": "2ce3667f56722ae95b59c70e89ab1167"
+    },
+    {
+        "path": "uscite-del-sabato-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/uscite-del-sabato-2/index.html",
+        "type": "file",
+        "md5": "b13c954e724a9929d0bc762f21f0b0af"
+    },
+    {
+        "path": "uscite-del-sabato-3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/uscite-del-sabato-3/index.html",
+        "type": "file",
+        "md5": "6a0b71179c876d1f036873fa12521801"
+    },
+    {
+        "path": "uscite-del-sabato-4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/uscite-del-sabato-4/index.html",
+        "type": "file",
+        "md5": "bed4b8de1bb4c202eaa72c32ee40077a"
+    },
+    {
+        "path": "uscite-del-sabato-5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/uscite-del-sabato-5/index.html",
+        "type": "file",
+        "md5": "0902bcf2a0323354eb26d4ae0801ce3f"
+    },
+    {
+        "path": "uscite-del-sabato-6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/uscite-del-sabato-6/index.html",
+        "type": "file",
+        "md5": "04001e1020a7e3920089f9629843d248"
     },
     {
         "path": "valutazionelivello",
@@ -857,7 +1007,7 @@
     {
         "path": "/week-end/index.html",
         "type": "file",
-        "md5": "b4c179e1933fb05c10052e15a172ed6f"
+        "md5": "41e9530d281d303c937e24cf405ff6cf"
     },
     {
         "path": "whatsapp",
@@ -867,6 +1017,6 @@
     {
         "path": "/whatsapp/index.html",
         "type": "file",
-        "md5": "92f95f1d8d181ace0a5cdc09565c2d36"
+        "md5": "9afa78f0b268d3a26351ab1c2bce19b6"
     }
 ]
