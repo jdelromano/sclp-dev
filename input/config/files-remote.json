@@ -42,17 +42,7 @@
     {
         "path": "/amp/autori/jose-del-romano/index.html",
         "type": "file",
-        "md5": "01ddd48b02285998ab675f23714e91b3"
-    },
-    {
-        "path": "amp/buone-feste",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/buone-feste/index.html",
-        "type": "file",
-        "md5": "28a9353c432820bc85cbe934468facbc"
+        "md5": "96e47145ef05732bb40332604a611c12"
     },
     {
         "path": "amp/campo-di-natale",
@@ -62,7 +52,17 @@
     {
         "path": "/amp/campo-di-natale/index.html",
         "type": "file",
-        "md5": "48a45e9f9f58384da7922111671806a6"
+        "md5": "1979493a753c85ddbb5a0ed9de0c37a9"
+    },
+    {
+        "path": "amp/carnevale-rabadan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/carnevale-rabadan/index.html",
+        "type": "file",
+        "md5": "56df7c0e0429c8cc4cca269a8c4193cb"
     },
     {
         "path": "amp/cg",
@@ -117,7 +117,7 @@
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "527b5581e6a8a5885215dceb836825e8"
+        "md5": "2eeec4cae258fa7bf27241fdd44af701"
     },
     {
         "path": "amp/iscrizione",
@@ -128,16 +128,6 @@
         "path": "/amp/iscrizione/index.html",
         "type": "file",
         "md5": "ecce8e70232fa25be8fe931ff60a157c"
-    },
-    {
-        "path": "amp/juskila-2023",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/juskila-2023/index.html",
-        "type": "file",
-        "md5": "1ceb6934aaa85a78dbbf4a92d181a20f"
     },
     {
         "path": "amp/mercatino-dellusato",
@@ -157,7 +147,7 @@
     {
         "path": "/amp/sponsor/index.html",
         "type": "file",
-        "md5": "11b2846fb6252791b3ce41716bfa52da"
+        "md5": "69d0b6584060b22f67a50ffb850d7436"
     },
     {
         "path": "amp/statuti",
@@ -182,22 +172,7 @@
     {
         "path": "/amp/tags/calendario/index.html",
         "type": "file",
-        "md5": "44a7d726c5e6565a2742e4b1d12ff0bd"
-    },
-    {
-        "path": "amp/tags/calendario/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "amp/tags/calendario/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/tags/calendario/page/2/index.html",
-        "type": "file",
-        "md5": "7805ec92a829bc02607aacc5754c0bdf"
+        "md5": "5e00541474b10e61961b6318a836f58a"
     },
     {
         "path": "amp/uscita-del-17-dicembre-2022",
@@ -210,44 +185,24 @@
         "md5": "853c7c23b33232ec806fb1ffa3c83c52"
     },
     {
-        "path": "amp/uscite-del-sabato-2",
+        "path": "amp/uscita-del-sabato",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/uscite-del-sabato-2/index.html",
+        "path": "/amp/uscita-del-sabato/index.html",
         "type": "file",
-        "md5": "1a95a27beb3695bf608568cd6412073a"
+        "md5": "b90fc452df6d8b8399785e2c254789eb"
     },
     {
-        "path": "amp/uscite-del-sabato-3",
+        "path": "amp/uscita-della-domenica",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/amp/uscite-del-sabato-3/index.html",
+        "path": "/amp/uscita-della-domenica/index.html",
         "type": "file",
-        "md5": "c52d9325aca57f11ab6bebc1c7142db6"
-    },
-    {
-        "path": "amp/uscite-del-sabato-4",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/uscite-del-sabato-4/index.html",
-        "type": "file",
-        "md5": "7c20f7970f58caa7490a1cf6a3d5f085"
-    },
-    {
-        "path": "amp/uscite-del-sabato-5",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/uscite-del-sabato-5/index.html",
-        "type": "file",
-        "md5": "daba4ed6c7283731515fdba80e176aa5"
+        "md5": "d7acdee2c48f0da1386744999ebcceca"
     },
     {
         "path": "amp/uscite-del-sabato-6",
@@ -277,7 +232,7 @@
     {
         "path": "/amp/week-end/index.html",
         "type": "file",
-        "md5": "868e55bc40a2d016906f36bde5c114aa"
+        "md5": "2dd1a90f514c1e7f89e200937d9a5c55"
     },
     {
         "path": "amp/whatsapp",
@@ -460,16 +415,6 @@
         "md5": "093fa13cb23604978e9d2ed832250739"
     },
     {
-        "path": "buone-feste",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/buone-feste/index.html",
-        "type": "file",
-        "md5": "a6789720cc5f9f8d021db7657eece859"
-    },
-    {
         "path": "campo-di-natale",
         "type": "directory",
         "md5": false
@@ -477,7 +422,17 @@
     {
         "path": "/campo-di-natale/index.html",
         "type": "file",
-        "md5": "0b957cc132520ebecf965ea53ef5f496"
+        "md5": "e56835a9b4846f1bc61f0cbbec472842"
+    },
+    {
+        "path": "carnevale-rabadan",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/carnevale-rabadan/index.html",
+        "type": "file",
+        "md5": "01201bd28180d9f8e984cb6a9cec9d5e"
     },
     {
         "path": "cg",
@@ -532,7 +487,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "7a683d169a7ae341eabe19d4e7f7c430"
+        "md5": "8f861f5700815e74941cad6f974e292e"
     },
     {
         "path": "iscrizione",
@@ -545,16 +500,6 @@
         "md5": "0be253b0a1e8f152317d8e09dd6abdf8"
     },
     {
-        "path": "juskila-2023",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/juskila-2023/index.html",
-        "type": "file",
-        "md5": "8c97cd0cff62eb0a79ad1d05c65b74e9"
-    },
-    {
         "path": "media",
         "type": "directory",
         "md5": false
@@ -565,14 +510,19 @@
         "md5": false
     },
     {
-        "path": "/media/files/AssembleaSCLP_2022.pdf",
+        "path": "/media/files/altolago.png",
         "type": "file",
-        "md5": "2d16912045a6a5fd9c0efcdb28b3fefd"
+        "md5": "272f3bf13f4048a1c76faad744ee997a"
     },
     {
         "path": "/media/files/banana.png",
         "type": "file",
         "md5": "58428636a163cc1384c718ea98348833"
+    },
+    {
+        "path": "/media/files/bieffe.jpg",
+        "type": "file",
+        "md5": "ff29fde62fd110786e2cc1928f320877"
     },
     {
         "path": "/media/files/brochure-22-23-web.pdf",
@@ -585,9 +535,19 @@
         "md5": "265721f277303761da5cf6d5139967a6"
     },
     {
+        "path": "/media/files/fasani.png",
+        "type": "file",
+        "md5": "6ad4fcdc32826bfcaf837e8f0f4a636e"
+    },
+    {
         "path": "/media/files/gecorecycling.png",
         "type": "file",
         "md5": "77e186532e4fa3f2656df729c4113286"
+    },
+    {
+        "path": "/media/files/habitat3.png",
+        "type": "file",
+        "md5": "3c63e7673ed116419ab3b09236192f7b"
     },
     {
         "path": "/media/files/polizza-versamento-sclp.png",
@@ -595,9 +555,19 @@
         "md5": "d7f0a8d3979c7643c446aa036143f13e"
     },
     {
+        "path": "/media/files/raiffeisen.png",
+        "type": "file",
+        "md5": "561b468a192dc82f42803e4205821b23"
+    },
+    {
         "path": "/media/files/swiss-ski_logo.png",
         "type": "file",
         "md5": "5f74d698069209b8e09545b0172c6b13"
+    },
+    {
+        "path": "/media/files/Weekend_Bosco_2023.pdf",
+        "type": "file",
+        "md5": "e93f3931494d9a225875da70ed6d52d7"
     },
     {
         "path": "media/posts",
@@ -645,16 +615,6 @@
         "md5": "a9e1f2b113bdabb0f771f152144fc1c0"
     },
     {
-        "path": "media/posts/20",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/20/juskila.jpg",
-        "type": "file",
-        "md5": "20195569f406cc56e5adb93b70c2ee50"
-    },
-    {
         "path": "media/posts/21",
         "type": "directory",
         "md5": false
@@ -663,6 +623,16 @@
         "path": "/media/posts/21/Stagione22-23.jpg",
         "type": "file",
         "md5": "15a901aa54dbeba3bd7b337e2507344d"
+    },
+    {
+        "path": "media/posts/33",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/33/rabadan-2023.jpg",
+        "type": "file",
+        "md5": "eb0bdea74fc9ff8f9ede3ed1e5665ea2"
     },
     {
         "path": "media/posts/4",
@@ -882,7 +852,7 @@
     {
         "path": "/sponsor/index.html",
         "type": "file",
-        "md5": "c00684c0e40e3d8442de2e416e820eda"
+        "md5": "b8741a9538e0570b6088ff93e35d58fe"
     },
     {
         "path": "statuti",
@@ -907,22 +877,7 @@
     {
         "path": "/tags/calendario/index.html",
         "type": "file",
-        "md5": "4009b00581e20d7a8c0b450b92ce55e6"
-    },
-    {
-        "path": "tags/calendario/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "tags/calendario/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/calendario/page/2/index.html",
-        "type": "file",
-        "md5": "ffc30a265552c94e814ec4bbc0a70a31"
+        "md5": "b9a2a682283161e38ca9c391b55e75b7"
     },
     {
         "path": "/tags/index.html",
@@ -940,44 +895,24 @@
         "md5": "2ce3667f56722ae95b59c70e89ab1167"
     },
     {
-        "path": "uscite-del-sabato-2",
+        "path": "uscita-del-sabato",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/uscite-del-sabato-2/index.html",
+        "path": "/uscita-del-sabato/index.html",
         "type": "file",
-        "md5": "b13c954e724a9929d0bc762f21f0b0af"
+        "md5": "4df55289e73d2b71ae3650052a77832c"
     },
     {
-        "path": "uscite-del-sabato-3",
+        "path": "uscita-della-domenica",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/uscite-del-sabato-3/index.html",
+        "path": "/uscita-della-domenica/index.html",
         "type": "file",
-        "md5": "6a0b71179c876d1f036873fa12521801"
-    },
-    {
-        "path": "uscite-del-sabato-4",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/uscite-del-sabato-4/index.html",
-        "type": "file",
-        "md5": "bed4b8de1bb4c202eaa72c32ee40077a"
-    },
-    {
-        "path": "uscite-del-sabato-5",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/uscite-del-sabato-5/index.html",
-        "type": "file",
-        "md5": "0902bcf2a0323354eb26d4ae0801ce3f"
+        "md5": "bf443681d24d0d1de57638b57f7fa050"
     },
     {
         "path": "uscite-del-sabato-6",
@@ -1007,7 +942,7 @@
     {
         "path": "/week-end/index.html",
         "type": "file",
-        "md5": "41e9530d281d303c937e24cf405ff6cf"
+        "md5": "0fd85c62ee47f0cb0c9a978bf9292358"
     },
     {
         "path": "whatsapp",
