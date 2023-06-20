@@ -42,7 +42,7 @@
     {
         "path": "/amp/autori/jose-del-romano/index.html",
         "type": "file",
-        "md5": "be96b711be03e0681ccd3b46c3ea4852"
+        "md5": "5769ab864bd2f2215c2e31d9adebe551"
     },
     {
         "path": "amp/campo-di-natale",
@@ -53,16 +53,6 @@
         "path": "/amp/campo-di-natale/index.html",
         "type": "file",
         "md5": "1979493a753c85ddbb5a0ed9de0c37a9"
-    },
-    {
-        "path": "amp/carnevale-rabadan",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/carnevale-rabadan/index.html",
-        "type": "file",
-        "md5": "5d10f3ae8cbf5427c981be5498c8bb39"
     },
     {
         "path": "amp/cg",
@@ -117,7 +107,7 @@
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "ef674a80abe763620710c598b04344f2"
+        "md5": "116c006f4153bbbfc4abef213bdc0868"
     },
     {
         "path": "amp/iscrizione",
@@ -172,7 +162,7 @@
     {
         "path": "/amp/tags/calendario/index.html",
         "type": "file",
-        "md5": "b7337ad4852daf3026e08427d6379023"
+        "md5": "b2fd2c31368f88a9947c8e548d598825"
     },
     {
         "path": "amp/uscita-del-17-dicembre-2022",
@@ -183,36 +173,6 @@
         "path": "/amp/uscita-del-17-dicembre-2022/index.html",
         "type": "file",
         "md5": "853c7c23b33232ec806fb1ffa3c83c52"
-    },
-    {
-        "path": "amp/uscita-del-sabato",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/uscita-del-sabato/index.html",
-        "type": "file",
-        "md5": "b90fc452df6d8b8399785e2c254789eb"
-    },
-    {
-        "path": "amp/uscita-della-domenica",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/uscita-della-domenica/index.html",
-        "type": "file",
-        "md5": "9c44c9c22d2bcde1a6889195aa26a8e5"
-    },
-    {
-        "path": "amp/uscite-del-sabato-6",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/amp/uscite-del-sabato-6/index.html",
-        "type": "file",
-        "md5": "a7e7fef038894f7a1a43ee4d8c5ddd93"
     },
     {
         "path": "amp/valutazionelivello",
@@ -232,7 +192,7 @@
     {
         "path": "/amp/week-end/index.html",
         "type": "file",
-        "md5": "2dd1a90f514c1e7f89e200937d9a5c55"
+        "md5": "9f9e9feed11427b7d3946879c9da767f"
     },
     {
         "path": "amp/whatsapp",
@@ -425,16 +385,6 @@
         "md5": "e56835a9b4846f1bc61f0cbbec472842"
     },
     {
-        "path": "carnevale-rabadan",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/carnevale-rabadan/index.html",
-        "type": "file",
-        "md5": "88050e3a82750a298dc19972caa2d93a"
-    },
-    {
         "path": "cg",
         "type": "directory",
         "md5": false
@@ -487,7 +437,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a53450d8f4cbc7391078b150a411fb05"
+        "md5": "c86cda90aa67e7e4661accdf6ca1eb70"
     },
     {
         "path": "iscrizione",
@@ -623,16 +573,6 @@
         "path": "/media/posts/21/Stagione22-23.jpg",
         "type": "file",
         "md5": "15a901aa54dbeba3bd7b337e2507344d"
-    },
-    {
-        "path": "media/posts/33",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/33/volantino-2023.png",
-        "type": "file",
-        "md5": "431cd210c8b4c782613b2a3656e95331"
     },
     {
         "path": "media/posts/4",
@@ -877,7 +817,7 @@
     {
         "path": "/tags/calendario/index.html",
         "type": "file",
-        "md5": "cd88a34739924ab22f889e6d3a8a277a"
+        "md5": "0399bace0659b744f025f8a8045feb71"
     },
     {
         "path": "/tags/index.html",
@@ -893,36 +833,6 @@
         "path": "/uscita-del-17-dicembre-2022/index.html",
         "type": "file",
         "md5": "2ce3667f56722ae95b59c70e89ab1167"
-    },
-    {
-        "path": "uscita-del-sabato",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/uscita-del-sabato/index.html",
-        "type": "file",
-        "md5": "4df55289e73d2b71ae3650052a77832c"
-    },
-    {
-        "path": "uscita-della-domenica",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/uscita-della-domenica/index.html",
-        "type": "file",
-        "md5": "0e8892b8edc6ce45a7b100bf9a14e7f1"
-    },
-    {
-        "path": "uscite-del-sabato-6",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/uscite-del-sabato-6/index.html",
-        "type": "file",
-        "md5": "04001e1020a7e3920089f9629843d248"
     },
     {
         "path": "valutazionelivello",
@@ -942,7 +852,7 @@
     {
         "path": "/week-end/index.html",
         "type": "file",
-        "md5": "0fd85c62ee47f0cb0c9a978bf9292358"
+        "md5": "c1f81de25425f0367ca29c83ed9f06ea"
     },
     {
         "path": "whatsapp",
